@@ -1,0 +1,43 @@
+{% extends "templates/base.html" %}
+{% block title %} Fontane Notizbücher: Quantitative research {% endblock %}
+{% block scriptHeader %}
+    <style>
+        .container-fluid{
+            max-width: 100%;
+        }
+    </style>
+{% endblock %}
+{% block content %}
+<div class="hfeed side" id="page">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    {% for x in objects %}
+                        {% if x.total_notes %}
+                            <h1>Editorial Notes gesamt: {{ x.total_notes }}</h1>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="col-lg-12">
+                {% for x in objects %}
+                    <div class="card">
+                        <div class="card-header">
+                            <h2>{{ x.title }}</h2>
+                            <h5>{{ x.counter }}</h5>
+                        </div>
+                        <div class="card-body">
+                            <ul>
+                            {% for n in x.notes %}
+                                <li>{{ n }}</li>
+                            {% endfor %}
+                            <ul>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

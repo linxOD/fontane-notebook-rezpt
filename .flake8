@@ -1,0 +1,10 @@
+[flake8]
+ignore = D203 W504 E275
+max-line-length = 120
+exclude =
+    .git
+    .vscode
+    .ipynb_checkpoints
+    *.ipynb
+    env
+    venv
