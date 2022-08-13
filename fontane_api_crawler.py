@@ -63,51 +63,105 @@ class FntNotebooks():
         return files
 
     def get_real_tei(self):
-        "filter for real tei docus"
-        trees = {}
-        files = glob.glob(os.path.join(self.save_dir, '*.xml'))
-        for x in files:
+        "filter for  TEI docs"
+
+        files = {
+            "tei": [],
+            "none_tei": []
+        }
+        fn = glob.glob(os.path.join(self.save_dir, '*.xml'))
+        for x in fn:
             with open(x, 'r') as f:
                 data = f.read()
             tree = ET.fromstring(data)
             if tree.tag == "{http://www.tei-c.org/ns/1.0}TEI":
-                trees["tei"] = tree
+                files["tei"].append(tree)
                 os.makedirs(os.path.join(self.save_dir, "tei_only"), exist_ok=True)
                 with open(os.path.join(self.save_dir, "tei_only", x.split('/')[-1]), 'wb') as f:
                     f.write(ET.tostring(tree, pretty_print=True, encoding="utf-8"))
             else:
-                trees["none_tei"] = tree
+                files["none_tei"].append(tree)
                 os.makedirs(os.path.join(self.save_dir, "none_tei"), exist_ok=True)
                 with open(os.path.join(self.save_dir, "none_tei", x.split('/')[-1]), 'wb') as f:
                     f.write(ET.tostring(tree, pretty_print=True, encoding="utf-8"))
             os.remove(x)
-        return trees
+        return files
 
-    def find_tei_elements(self, xpath):
-        files = glob.glob(os.path.join(self.save_dir, 'tei_only', '*.xml'))
+    def find_tei_elements(self, xpath1, xpath2, dump):
         notes = []
-        for x in files:
-            with open(x, "r") as f:
-                data = f.read()
-            tree = ET.fromstring(data)
-            title = tree.xpath(".//tei:title/text()", namespaces=self.nsmap)[0]
-            editorial = tree.xpath(xpath, namespaces=self.nsmap)
-            item = {
-                "title": title,
-                "notes": [],
-                "words": []
-            }
-            counter = 0
-            for e in editorial:
-                counter += 1
-                children = e.xpath(".//text()")
-                note = ' '.join(children)
-                item["notes"].append(note)
-                words = len(note.split(' '))
-                if words > 0:
-                    item["words"].append(words)
-            item["counter"] = counter
-            notes.append(item)
+        if dump:
+            files = glob.glob(os.path.join(self.save_dir, 'tei_only', '*.xml'))
+            for x in files:
+                with open(x, "r") as f:
+                    data = f.read()
+                tree = ET.fromstring(data)
+                title = tree.xpath(".//tei:title/text()", namespaces=self.nsmap)[0]
+                editorial = tree.xpath(xpath1, namespaces=self.nsmap)
+                pages = tree.xpath(xpath2, namespaces=self.nsmap)
+                item = {
+                    "title": title,
+                    "notes": [],
+                    "words": [],
+                    "pages": [],
+                    "p_words": [],
+                }
+                count_notes = 0
+                count_pages = 0
+                for e in editorial:
+                    count_notes += 1
+                    children = e.xpath(".//text()")
+                    note = ' '.join(children)
+                    item["notes"].append(note)
+                    words = len(note.split(' '))
+                    if words > 0:
+                        item["words"].append(words)
+                for p in pages:
+                    count_pages += 1
+                    children = p.xpath(".//text()")
+                    page = ' '.join(children)
+                    item["pages"].append(page)
+                    words = len(page.split(' '))
+                    if words > 0:
+                        item["p_words"].append(words)
+                item["count_notes"] = count_notes
+                item["count_pages"] = count_pages
+                notes.append(item)
+        else:
+            load = self.get_real_tei()
+            data = load["tei"]
+            for x in data:
+                tree = x
+                title = tree.xpath(".//tei:title/text()", namespaces=self.nsmap)[0]
+                editorial = tree.xpath(xpath1, namespaces=self.nsmap)
+                pages = tree.xpath(xpath2, namespaces=self.nsmap)
+                item = {
+                    "title": title,
+                    "notes": [],
+                    "words": [],
+                    "pages": [],
+                    "p_words": [],
+                }
+                count_notes = 0
+                count_pages = 0
+                for e in editorial:
+                    count_notes += 1
+                    children = e.xpath(".//text()")
+                    note = ' '.join(children)
+                    item["notes"].append(note)
+                    words = len(note.split(' '))
+                    if words > 0:
+                        item["words"].append(words)
+                for p in pages:
+                    count_pages += 1
+                    children = p.xpath(".//text()")
+                    page = ' '.join(children)
+                    item["pages"].append(page)
+                    words = len(page.split(' '))
+                    if words > 0:
+                        item["p_words"].append(words)
+                item["count_notes"] = count_notes
+                item["count_pages"] = count_pages
+                notes.append(item)
         return notes
 
     def create_html_view(self, data):
@@ -131,9 +185,16 @@ class FntNotebooks():
                     average = Sum / Len
                 else:
                     average = 0
-                table.append([x["title"], x["counter"], average])
-        df = pd.DataFrame(table, columns=['notebook_title', 'no_of_editorial_notes', 'average_word_count'])
+                if x["p_words"]:
+                    Sum = sum(x["p_words"])
+                    Len = len(x["p_words"])
+                    p_average = Sum / Len
+                else:
+                    p_average = 0    
+                table.append([x["title"], x["count_notes"], str(round(average, 2)), x["count_pages"], str(round(p_average, 2))])
+        df = pd.DataFrame(table, columns=['notebook_title', 'no_of_editorial_notes', 'average_word_count', 'no_of_pages', 'avg_wordcount_pages'])
         df.to_csv("fonante_editorial_notes.csv", sep=",", encoding='utf-8', index=False)
+        return data
 
     def __init__(
         self,
