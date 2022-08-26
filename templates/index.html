@@ -25,14 +25,39 @@
                     <div class="card">
                         <div class="card-header">
                             <h2>{{ x.title }}</h2>
-                            <h5>{{ x.counter }}</h5>
+                            <h5>{{ x.total_count }}</h5>
                         </div>
                         <div class="card-body">
-                            <ul>
-                            {% for n in x.notes %}
-                                <li>{{ n }}</li>
-                            {% endfor %}
-                            <ul>
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Title</th>
+                                        <th>Context</th>
+                                        <th>No of items</th>
+                                        <th>Average wordcount of context</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                {% for p in x.xpath %}
+                                    <tr>
+                                        <td>{{ p.title }}</td>
+                                        <td>
+                                            <ul>
+                                            {% for n in p.context %}
+                                                <li>{{ n }}</li>
+                                            {% endfor %}
+                                            </ul>
+                                        </td>
+                                        <td>{{ p.count }}</td>
+                                        {% if p.wordcount|length > 0 and "tei:note" in p.title or "tei:abstract" in p.title %}
+                                        <td>{{ (p.wordcount|sum / p.wordcount|length)|round|int }}</td>
+                                        {% else %}
+                                        <td>0</td>
+                                        {% endif %}
+                                    </tr>
+                                {% endfor %}
+                                </tbody>
+                            </table>
                         </div>
                     </div>
                 {% endfor %}

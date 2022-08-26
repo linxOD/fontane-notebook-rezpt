@@ -4,6 +4,7 @@ import os
 import glob
 import jinja2
 import pandas as pd
+import json
 
 
 FONTANE_REST_URL = "https://fontane-nb.dariah.eu/rest/data"
@@ -107,8 +108,11 @@ class FntNotebooks():
                     "title": title,
                     "xpath": []
                 }
+                total_count = 0;
                 for x in xpath:
                     rs = tree.xpath(x, namespaces=self.nsmap)
+                    total_count += len(rs)
+                    
                     pathObj = {
                         "title": x,
                         "context": [],
@@ -118,11 +122,15 @@ class FntNotebooks():
                     for e in rs:
                         children = e.xpath(".//text()")
                         note = ' '.join(children)
-                        # pathObj["context"].append(note)
-                        words = len(note.split(' '))
+                        if "tei:note" in x or "tei:abstract" in x:
+                            note = note.replace("\n", "")
+                            note = note.replace("  ", "")
+                            pathObj["context"].append(note)
+                            words = len(note.split(' '))
                         if words > 0:
                             pathObj["wordcount"].append(words)
                     item["xpath"].append(pathObj)
+                item["total_count"] = total_count
                 notes.append(item)
             if "ODD" in title:
                 item = {
@@ -141,12 +149,14 @@ class FntNotebooks():
                     item["elementSpec"].append(el)
                 item["elementSpecLg"] = len(elementSpec)
                 notes.append(item)
+        with open("fontane_xpath_result.json", "w") as f:
+            json.dump(notes, f)
         return notes
 
     def create_html_view(self, data):
         data = data
         templateLoader = jinja2.FileSystemLoader(searchpath=".")
-        templateEnv = jinja2.Environment(loader=templateLoader)
+        templateEnv = jinja2.Environment(loader=templateLoader, trim_blocks=True, lstrip_blocks=True)
         template = templateEnv.get_template('./templates/index.html')
         os.makedirs("html", exist_ok=True)
         with open('./html/index.html', 'w') as f:
