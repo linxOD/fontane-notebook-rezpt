@@ -88,7 +88,7 @@ class FntNotebooks():
             os.remove(x)
         return files
 
-    def find_tei_elements(self, xpath, dump):
+    def find_tei_elements(self, xpath, dump, filename):
         notes = []
         if dump:
             data = glob.glob(os.path.join(self.save_dir, 'tei_only', '*.xml'))
@@ -102,10 +102,22 @@ class FntNotebooks():
                 tree = ET.fromstring(data)
             else:
                 tree = x
+            filename = os.path.basename(x).replace(".xml", "")
             title = tree.xpath(".//tei:title/text()", namespaces=self.nsmap)[0]
+            date = tree.xpath(".//tei:creation/tei:date[@type='editorial']//tei:date/@when-iso", namespaces=self.nsmap)
+            if len(date) >= 1:
+                date = tree.xpath(".//tei:creation/tei:date[@type='editorial']//tei:date/@when-iso", namespaces=self.nsmap)
+            else:
+                date = tree.xpath(".//tei:creation/tei:date[@type='editorial']/text()", namespaces=self.nsmap)
+            date2 = tree.xpath(".//tei:creation/tei:date[@type='authorial']/text()", namespaces=self.nsmap)
+            date3 = tree.xpath(".//tei:creation/tei:date[@type='Friedrich_Fontane']/text()", namespaces=self.nsmap)
             if "Notizbuch" in title:
                 item = {
+                    "filename": filename,
                     "title": title,
+                    "date_e": date,
+                    "date_a": date2,
+                    "date_f": date3,
                     "xpath": []
                 }
                 total_count = 0;
@@ -122,7 +134,7 @@ class FntNotebooks():
                     for e in rs:
                         children = e.xpath(".//text()")
                         note = ' '.join(children)
-                        if "tei:note" in x or "tei:abstract" in x:
+                        if "tei:note" in x or "tei:abstract" in x or "tei:list" in x:
                             note = note.replace("\n", "")
                             note = note.replace("  ", "")
                             pathObj["context"].append(note)
@@ -149,7 +161,7 @@ class FntNotebooks():
                     item["elementSpec"].append(el)
                 item["elementSpecLg"] = len(elementSpec)
                 notes.append(item)
-        with open("fontane_xpath_result.json", "w") as f:
+        with open(f"{filename}.json", "w") as f:
             json.dump(notes, f)
         return notes
 
@@ -163,12 +175,26 @@ class FntNotebooks():
             f.write(template.render({"objects": data}))
         return data
 
-    def create_csv_data(self, data):
+    def create_csv_data(self, data, filename):
         data = data
         table = []
         table1 = []
         for x in data:
             if "Notizbuch" in x["title"]:
+                if x["date_e"]:
+                    date = " ".join(x["date_e"])
+                    date = date.replace("\n", "")
+                    date = date.replace("  ", "")
+                else: 
+                    date = ""
+                if x["date_a"]:
+                    date2 = " ".join(x["date_a"])
+                else: 
+                    date2 = ""
+                if x["date_f"]:
+                    date3 = " ".join(x["date_f"])
+                else: 
+                    date3 = ""
                 for i in x["xpath"]:
                     if i["wordcount"]:
                         Sum = sum(i["wordcount"])
@@ -176,14 +202,14 @@ class FntNotebooks():
                         average = Sum / Len
                     else:
                         average = 0
-                    table.append([x["title"], i["count"], i["title"], str(round(average, 2))])
+                    table.append([x["filename"], x["title"], date, date2, date3, i["count"], i["title"], int(round(average, 0))])
             if "ODD" in x["title"]:
                 for i in x["elementSpec"]:
                     table1.append([x["title"], "/".join(x["moduleRef"]), x["elementSpecLg"], i["ident"][0], "/".join(i["attDef"]), len(i["attDef"]), "/".join(i["valItem"]), len(i["valItem"])])
-        df = pd.DataFrame(table, columns=['notebook_title', 'count_context', 'context', 'average_context'])
-        df.to_csv("fonante_editorial_notes.csv", sep=",", encoding='utf-8', index=False)          
+        df = pd.DataFrame(table, columns=['filename', 'notebook_title', 'date_e', 'date_a', 'date_f', 'count_context', 'context', 'average_context'])
+        df.to_csv(f"fonante_editorial_{filename}_notes.csv", sep=",", encoding='utf-8', index=False)          
         df = pd.DataFrame(table1, columns=['title', 'modules', 'count_elements', 'el_ident', 'attDef', 'attDef_len', 'valItem', 'valItem_len'])
-        df.to_csv("fonante_editorial_odd.csv", sep=",", encoding='utf-8', index=False)
+        df.to_csv(f"fonante_editorial_{filename}_odd.csv", sep=",", encoding='utf-8', index=False)
         return data
 
     def __init__(

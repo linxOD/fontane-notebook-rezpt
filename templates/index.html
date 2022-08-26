@@ -24,8 +24,12 @@
                 {% for x in objects %}
                     <div class="card">
                         <div class="card-header">
-                            <h2>{{ x.title }}</h2>
-                            <h5>{{ x.total_count }}</h5>
+                            <h2>Title: {{ x.title }}</h2>
+                            <h5>Filename: {{ x.filename }}</h5>
+                            <h5>Total count of nodes: {{ x.total_count }}</h5>
+                            <h5>Editorial: {{ x.date_e }}</h5>
+                            <h5>Authorial: {{ x.date_a }}</h5>
+                            <h5>Fontane: {{ x.date_f }}</h5>
                         </div>
                         <div class="card-body">
                             <table class="table">

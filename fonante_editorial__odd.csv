@@ -1,0 +1,213 @@
+title,modules,count_elements,el_ident,attDef,attDef_len,valItem,valItem_len
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,ab,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,abbr,type,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,affiliation,ref,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,author,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,availability,status,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,bibl,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,birth,when-iso/cert/precision/notBefore-iso/notAfter-iso,5,low/low,2
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,body,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,change,target/who/when-iso/status,4,published,1
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,choice,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,citedRange,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,death,when-iso/cert/precision/notBefore-iso/notAfter-iso,5,low/low,2
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,date,when-iso/from-iso/to-iso/notBefore-iso/notAfter-iso,5,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,desc,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,encodingDesc,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,event,where,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,expan,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,fileDesc,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,front,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,handNote,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,handNotes,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,head,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,idno,xml:base/type,2,http://d-nb.info/gnd//http://nbn-resolving.de/urn/resolver.pl?urn=/http://worldcat.org/entity/work/id//http://www.wikidata.org/wiki//http://d-nb.info//http://textgridrep.org//http://swb.bsz-bw.de/DB=2.1/PRS=rdf/PPNSET?PPN=/http://gateway-bayern.de//http://ld.zdb-services.de/resource/organisations//http://www.openstreetmap.org/node//http://www.openstreetmap.org/way//http://www.worldcat.org/oclc//http://dx.doi.org//http://www.digishelf.de/piresolver?id=PPN/GND/URN/WorldCat/Wikidata/DNB/TextGrid/SWB/BVB/ISIL/DFG-Projektnummer/DFG-AOBJ/OpenStreetMap/DOI/DIGISHELF,28
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,item,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,label,type/xml:base/resp,3,variant/GND/Wikidata/http://d-nb.info/gnd//http://www.wikidata.org/wiki/,5
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,licence,target,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,link,corresp/target,2,https://schema.org/mentions/http://erlangen-crm.org/current/P107_has_current_or_former_member/http://purl.org/dc/terms/creator/http://erlangen-crm.org/current/P7_took_place_at/http://purl.org/dc/terms/source/http://purl.org/ontology/bibo/#translationOf/http://bibframe.org/vocab/hasInstance/http://erlangen-crm.org/current/P53_has_former_or_current_location/http://purl.org/dc/terms/contributor/http://id.loc.gov/vocabulary/relators/trl/http://id.loc.gov/vocabulary/relators/edt/http://erlangen-crm.org/current/P70_documents,12
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,linkGrp,targFunc,1,active passive/passive active,2
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,list,type,1,works/periodicals/Fontane,3
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,listBibl,n/type,2,Fontanes_Werke/Erstausgaben/Werkausgaben/Briefausgaben/Postume_Einzelausgaben/Populaere_postume_Einzelausgaben/Fontanes_Quellen/Nachschlagewerke_der_Fontane-Forschung/Allgemeine_Nachschlagewerke/Forschungsliteratur/Internetquellen,11
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,listEvent,type,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,listItem,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,listOrg,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,listPerson,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,listPlace,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,listPrefixDef,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,name,type/resp,2,variant,1
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,note,anchored/targetEnd,2,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,occupation,scheme/code,2,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,org,role,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,orgName,type/resp,2,variant,1
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,p,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,persName,type/resp,2,variant,1
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,person,role/sex/age,3,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,personGrp,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,place,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,placeName,type/resp,2,variant,1
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,prefixDef,ident/replacementPattern/matchPattern,3,eve/lit/org/psn/plc/wrk/(.+),7
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,profileDesc,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,ptr,type/target,2,fulltext/image/Figurenlexikon,3
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,publicationStmt,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,resp,key,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,respStmt,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,revisionDesc,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,rs,ref,1,psn:Fontane_Emilie/psn:Fontane_Friedrich/#Fontane_Emilie/#Fontane_Friedrich,4
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,state,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,seriesStmt,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,sourceDesc,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,TEI,version,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,teiHeader,type,1,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,text,,0,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,title,type/level,2,,0
+ODD zu den Registern von Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke,core/tei/header/textstructure/namesdates/linking/transcr,63,titleStmt,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,ab,part,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,abbr,type/next/prev,3,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,abstract,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,add,next/prev/copyOf/place/rend/style/cause/exclude/type/corresp/subtype,11,above/below/left/right/top/bottom/superimposed/margin-left:1.5cm;/unclear/catchword/edited_text/multiphrase/interlinear,13
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,additions,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,addSpan,place/next/prev/type/subtype/corresp,6,interlinear/margin/opposite/multiphrase/edited_text/extensive,6
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,altIdentifier,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,anchor,next/prev/type,3,tooltip,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,author,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,availability,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,bibl,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,bindingDesc,xml:base,1,http://rbms.info/vocabularies/binding/,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,cb,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,certainty,locus/cert/target/assertedValue/given/degree,6,value/high/low,3
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,change,who/when-iso,2,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,channel,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,charDecl,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,choice,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,citedRange,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,collection,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,constitution,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,corr,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,creation,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,date,notBefore-iso/notAfter-iso/when-iso/type/cert/precision/from-iso/to-iso,8,authorial/editorial/synchronous/asynchronous/posthumous/fictional/Friedrich_Fontane/low/low,9
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,decoDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,del,status/rend/instant/hand/next/prev,6,shortEnd/overwritten/erased/erased; overwritten/#/true,6
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,depth,unit/quantity,2,mm,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,derivation,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,desc,type,1,edited_text,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,dimensions,type,1,binding/leaves,2
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,domain,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,editor,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,editorialDecl,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,encodingDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,event,where,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,ex,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,expan,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,extent,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,factuality,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,figDesc,copyOf,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,figure,rend/subtype/style,3,repeat/mathematical/margin-left:2.5cm,3
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,fileDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,foliation,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,fw,type/prev/next,3,pageNum,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,g,ref,1,#mgem/#ngem/#rth/#hb/#vds/#z,6
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,gap,agent/hand/reason/unit/quantity,5,cut/torn/worn/pasted_over/illegible/damage/words/cap_words/uncap_words/lc_chars/uc_chars/mm/chars/cap_word_chars/uncap_word_chars,15
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,glyph,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,graphic,mimeType/url/n,3,image/jpeg,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,handDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,handNote,script/medium,2,contemporary/posthumous/stamp/standard/hasty/clean/angular,7
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,handNotes,n,1,1/2/3/4/5/6/7/8/9,9
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,handShift,new/medium/script,3,#Fontane/#Fontane-unsicher/#Emilie_Fontane-Autorin/#Emilie_Fontane-Autorin-unsicher/#Emilie_Fontane-Schreiberin/#Emilie_Fontane-Schreiberin-unsicher/#Graumann/#Huebner/#Kersten/#Lehfeldt/#Lucae/#Luehrss/#Ponge/#Schmautz/#Sommelin-unsicher/#Wittmann/#unbekannt_z/#unbekannt_z-unsicher/#Friedrich_Fontane/#Friedrich_Fontane-unsicher/#Archivar1/#Archivar2/#Archivar3/#fremde_Hand1/#fremde_Hand2/#fremde_Hand3/#fremde_Hand4/#fremde_Hand5/#fremde_Hand6/#fremde_Hand7/#fremde_Hand8/#fremde_Hand9/#fremde_Hand10/#fremde_Hand11/#unbekannt_p/#unbekannt_p-unsicher/#Praegung/#Siegel/#Stempel1/#Stempel2/#Stempel3/#Stempel4/#Stempel5/#Stempel6/#Stempel7/#Stempel8/#Stempel9/#Stempel10/#Stempel11/#Druck_z/#Druck_p/Latn/Latf/standard/hasty/clean/angular,57
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,head,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,height,unit/quantity,2,mm,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,hi,prev/next,2,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,history,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,idno,xml:base/type,2,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,interaction,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,item,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,join,exclude/result/target/scope,4,w/metamark,2
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,keywords,scheme,1,http://textgrid.info/namespaces/metadata/genre/2015,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,label,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,language,ident,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,langUsage,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,layout,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,layoutDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,lb,break/type,2,no/keepHyphen/keepIndent/edited_text,4
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,licence,target,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,line,n/rend/prev/next/lry/style/rendition/uly/type/subtype,10,#arabic_numerals/#black_letter/#roman/#script/#smallcaps/#roman #smallcaps/heading/item/verse/chapter/section/sub,12
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,link,target/targets/resp/type/corresp,5,mentioned/ascertained,2
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,linkGrp,targFunc,1,active passive,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,list,type/subtype,2,Werk/Werkplan/authorial/Friedrich_Fontane/editorial/authorial/Fontane_Blätter/musikalisch/Übersetzung/Text,10
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,listBibl,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,listPerson,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,listPlace,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,listPrefixDef,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,listOrg,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,listTranspose,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,material,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,measure,quantity/unit,2,leaf,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,metamark,function/target/corresp/rend,4,authorial_note/caret/clasp/connect/deletion/ellipsis/etc./footnote-mark/footnotes/highlight/integrate/paragraph/placeholder/transposition/verse_marker,15
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,milestone,unit/next/prev/type,4,paragraph/section/illustration,3
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,mod,type/hand/rend/style/spanTo/seq/next/prev,8,subst/highlighted,2
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,msContents,class,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,msDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,msIdentifier,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,msName,type,1,authorial/Friedrich_Fontane,2
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,msPart,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,name,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,note,anchored/type/subtype/target/exclude/targetEnd/prev/next,8,transcription/edited_text/authorial/tooltip/editorial/footnote/text/revision/notebook,9
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,objectDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,org,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,orgName,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,orig,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,origin,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,person,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,persName,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,physDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,place,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,placeName,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,prefixDef,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,preparedness,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,profileDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,ptr,cRef/target/type,3,tooltip,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,publicationStmt,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,purpose,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,redo,rend/style/spanTo/seq/next/prev,6,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,ref,cRef/target/next/prev/type,5,http://vocab.getty.edu/aat/300009764/http://vocab.getty.edu/aat/300015566/http://vocab.getty.edu/aat/300015578/http://vocab.getty.edu/aat/300015593/http://vocab.getty.edu/aat/300015636/http://vocab.getty.edu/aat/300028255/http://vocab.getty.edu/aat/300028789/http://vocab.getty.edu/aat/300034065/http://vocab.getty.edu/aat/300034158/http://vocab.getty.edu/aat/300034223/http://vocab.getty.edu/aat/300034254/http://vocab.getty.edu/aat/300034443/http://vocab.getty.edu/aat/300034494/http://vocab.getty.edu/aat/300034121/http://vocab.getty.edu/aat/300034122/http://vocab.getty.edu/aat/300054525/http://vocab.getty.edu/aat/300055648/http://vocab.getty.edu/aat/300100181/http://vocab.getty.edu/aat/300117130/http://vocab.getty.edu/aat/300124063/http://vocab.getty.edu/aat/300200009/http://vocab.getty.edu/aat/300262844/http://vocab.getty.edu/aat/300264741/http://vocab.getty.edu/aat/300410334/http://vocab.getty.edu/page/aat/300027019/first/last,27
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,reg,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,relation,type/name,2,CRM/P87_is_identified_by,2
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,rendition,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,repository,key,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,resp,key,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,respStmt,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,restore,rend/style,2,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,retrace,rend,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,revisionDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,rs,ref/type/corresp,3,direct/indirect,2
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,said,aloud/direct,2,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,seal,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,sealDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,seg,next/prev/xml:lang/rendition/rend/type/style/copyOf/synch/subtype/exclude/corresp/cert/function/n,15,da-Latf/da-Latn/en/en-Latf/en-Latn/fr/fr-Latf/fr-Latn/grc-Grek/it-Latf/it-Latn/la-Latf/la-Latn/nds-Latf/nds-Latn/pfl-Latf/pfl-Latn/sv-Latf/sv-Latn/sxu-Latf/sxu-Latn/szl-Latf/szl-Latn/#arabic_numerals/#black_letter/#roman/#script/#smallcaps/#roman #smallcaps/initials/marked_off/cancel/col/monogram/auction_number/heading/legend/rewrite/abort/toc/item/verse/edited_text/list/multiphrase/chapter/section/sub/sum/legend/extensive/envisaged/low/unknown,54
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,seriesStmt,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,settlement,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,sic,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,sourceDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,sourceDoc,n,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,space,resp/dim/unit/quantity/type,5,cm/placeholder/pause/unknown,4
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,stamp,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,styleDefDecl,scheme,1,css,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,supplied,reason,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,support,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,supportDesc,material,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,surface,flipping/n/facs/type/lrx/lry/ulx/uly/attachment/subtype/rend/points/next/prev,14,additional/fragment/pocket/clipping/label/back_endpaper/front_endpaper/loose/pocket/cut/torn/glued/partially_glued/torn_and_cut/formerly_glued/formerly_partially_glued/glued-posthumous/partially_glued-posthumous/glued-uncertain/partially_glued-uncertain/glued_and_torn/cut_and_partially_glued/glued_and_worn/angeklebte_blaue_Tasche_von_Fontane_angefertigt_-_Angeklebtes_Blatt/angeklebte_cremefarbige_Tasche_von_Fontane_angefertigt_-_Angeklebtes_Blatt/angeklebte_ockerfarbige_Tasche_von_Fontane_angefertigt_-_Angeklebtes_Blatt/angeklebte_Tasche_von_Fontane_angefertigt_-_Angeklebter_Zeitungsausschnitt/Billet/Blatt/Briefmarke/Briefpapierfragment/Briefumschlag/Briefumschlag_mit_eingesteckten_Blättern/Broschüre/Eintrittskarte/Etikett_vom_Notizbuch-Hersteller_angefertigt/Etikett_von_Fontane_angefertigt_-_Aufgeklebtes_Blatt/Etikett_von_Fontane_angefertigt_unsicher_-_Aufgeklebtes_Blatt/Etikett_von_Friedrich_Fontane_angefertigt_-_Ehemalig_aufgeklebtes_Blatt/Etikett_von_Friedrich_Fontane_angefertigt_unsicher_-_Aufgeklebtes_Blatt/Etikett_von_Friedrich_Fontane_angefertigt_unsicher_-_Ehemalig_aufgeklebtes_Blatt/Firmen-Klebchen/Firmen-Klebchenfragment/Kalenderblatt/Marienbild/Messtischblatt/Oblate/Passkarte/Rechnung/Signaturen-Klebchen_Archivar_alt/Signaturen-Klebchen_Archivar_neu/Signaturen-Klebchenfragment_Archivar_alt/Signaturen-Klebchenfragment_Friedrich_Fontane/Signaturen-Klebchen_Friedrich_Fontane/Tasche_vom_Notizbuch-Hersteller_angefertigt/Theaterzettel/unbeschriftetes_Blatt/Visitenkarte/von_Emilie_Fontane-Autorin_beschriftetes_Blatt/von_Emilie_Fontane-Schreiberin_beschriftetes_Blatt/von_Emilie_Fontane-unsicher_beschriftetes_Blatt/von_Fontane_beschriftetes_Blatt/von_Fontane_beschriftetes_Blattfragment/von_Fontane-unsicher_beschriftetes_Blatt/von_Friedrich_Fontane_beschriftetes_Blatt/von_Richard_Lucae_beschriftetes_Blatt/von_unbekannt_z_beschriftetes_Blatt/Zeitungsausschnitt/Zeitungsausschnitt_Fragment/vertical_bar,70
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,surname,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,surplus,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,tagsDecl,xml:base,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,TEI,xml:lang,1,de,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,teiHeader,type,1,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,term,cRef/target,2,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,textClass,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,textDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,title,level/type,2,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,titleStmt,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,transpose,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,typeDesc,,0,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,unclear,reason/hand/agent/next/prev,5,,0
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,width,unit/quantity,2,mm,1
+ODD zu ,header/core/tei/textstructure/corpus/certainty/figures/gaiji/linking/msdescription/namesdates/transcr,149,zone,rotate/lrx/rend/type/subtype/prev/next/lry/uly/ulx/style/rendition/xml:lang/facs/points/synch/exclude/corresp/cert,19,marked_off/illustration/heading/list/legend/cancel/item/additional/seal/verse/said/dialogue/toc/edited_text/highlighted/printed_illustration/multiphrase/chapter/section/sub/sum/getrocknete_Blätter/getrocknete_Veilchen/getrocknetes_Blatt/legend/Fontane/Friedrich_Fontane/difference/Fontane_ungültig/extensive/envisaged/#arabic_numerals/#black_letter/#roman/#script/#smallcaps/#roman #smallcaps/da-Latf/da-Latn/en/en-Latf/en-Latn/fr/fr-Latf/fr-Latn/grc-Grek/it-Latf/it-Latn/la-Latf/la-Latn/nds-Latf/nds-Latn/pfl-Latf/pfl-Latn/sv-Latf/sv-Latn/sxu-Latf/sxu-Latn/szl-Latf/szl-Latn/low,61
