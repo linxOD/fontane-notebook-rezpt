@@ -191,7 +191,6 @@ class FntNotebooks():
                 notes.append(item)
         with open(f"{filename}.json", "w") as f:
             json.dump(notes, f)
-        print(notes)
         return notes
 
     def create_html_view(self, data):
