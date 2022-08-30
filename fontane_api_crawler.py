@@ -129,9 +129,29 @@ class FntNotebooks():
                         "title": x,
                         "context": [],
                         "wordcount": [],
-                        "count": len(rs)
+                        "count": len(rs),
+                        "eve": [],
+                        "lit": [],
+                        "org": [],
+                        "plc": [],
+                        "psn": [],
+                        "wrk": []
                     }
                     for e in rs:
+                        if "tei:rs" in x:
+                            el_type = e.xpath("@ref")[0]
+                            if "eve:" in el_type:
+                                pathObj["eve"].append(" ".join(el_type))
+                            if "lit:" in el_type:
+                                pathObj["lit"].append(" ".join(el_type))
+                            if "org:" in el_type:
+                                pathObj["org"].append(" ".join(el_type))
+                            if "plc:" in el_type:
+                                pathObj["plc"].append(" ".join(el_type))
+                            if "psn:" in el_type:
+                                pathObj["psn"].append(" ".join(el_type))
+                            if "wrk:" in el_type:
+                                pathObj["wrk"].append(" ".join(el_type))
                         children = e.xpath(".//text()")
                         note = ' '.join(children)
                         if "tei:note" in x or "tei:abstract" in x or "tei:list" in x:
@@ -139,8 +159,16 @@ class FntNotebooks():
                             note = note.replace("  ", "")
                             pathObj["context"].append(note)
                             words = len(note.split(' '))
+                        else:
+                            words = 0
                         if words > 0:
                             pathObj["wordcount"].append(words)
+                    pathObj["eve"] = len(pathObj["eve"])
+                    pathObj["lit"] = len(pathObj["lit"])
+                    pathObj["org"] = len(pathObj["org"])
+                    pathObj["plc"] = len(pathObj["plc"])
+                    pathObj["psn"] = len(pathObj["psn"])
+                    pathObj["wrk"] = len(pathObj["wrk"])
                     item["xpath"].append(pathObj)
                 item["total_count"] = total_count
                 notes.append(item)
@@ -163,6 +191,7 @@ class FntNotebooks():
                 notes.append(item)
         with open(f"{filename}.json", "w") as f:
             json.dump(notes, f)
+        print(notes)
         return notes
 
     def create_html_view(self, data):
@@ -202,11 +231,35 @@ class FntNotebooks():
                         average = Sum / Len
                     else:
                         average = 0
-                    table.append([x["filename"], x["title"], date, date2, date3, i["count"], i["title"], int(round(average, 0))])
+                    if i["eve"]:
+                        eve = i["eve"]
+                    else:
+                        eve = 0
+                    if i["lit"]:
+                        lit = i["lit"]
+                    else:
+                        lit = 0
+                    if i["org"]:
+                        org = i["org"]
+                    else:
+                        org = 0
+                    if i["plc"]:
+                        plc = i["plc"]
+                    else:
+                        plc = 0
+                    if i["psn"]:
+                        psn = i["psn"]
+                    else:
+                        psn = 0
+                    if i["wrk"]:
+                        wrk = i["wrk"]
+                    else:
+                        wrk = 0
+                    table.append([x["filename"], x["title"], eve, lit, org, plc, psn, wrk, date, date2, date3, i["count"], i["title"], int(round(average, 0))])
             if "ODD" in x["title"]:
                 for i in x["elementSpec"]:
                     table1.append([x["title"], "/".join(x["moduleRef"]), x["elementSpecLg"], i["ident"][0], "/".join(i["attDef"]), len(i["attDef"]), "/".join(i["valItem"]), len(i["valItem"])])
-        df = pd.DataFrame(table, columns=['filename', 'notebook_title', 'date_e', 'date_a', 'date_f', 'count_context', 'context', 'average_context'])
+        df = pd.DataFrame(table, columns=['filename', 'notebook_title', 'eve', 'lit', 'org', 'plc', 'psn', 'wrk', 'date_e', 'date_a', 'date_f', 'count_context', 'context', 'average_context'])
         df.to_csv(f"fonante_editorial_{filename}_notes.csv", sep=",", encoding='utf-8', index=False)          
         df = pd.DataFrame(table1, columns=['title', 'modules', 'count_elements', 'el_ident', 'attDef', 'attDef_len', 'valItem', 'valItem_len'])
         df.to_csv(f"fonante_editorial_{filename}_odd.csv", sep=",", encoding='utf-8', index=False)

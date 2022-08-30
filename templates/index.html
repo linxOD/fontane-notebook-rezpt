@@ -36,6 +36,12 @@
                                 <thead>
                                     <tr>
                                         <th>Title</th>
+                                        <th>Event</th>
+                                        <th>Literatur, Siglen</th>
+                                        <th>Körperschaften, Inst.</th>
+                                        <th>Orte</th>
+                                        <th>Personen</th>
+                                        <th>Werke</th>
                                         <th>Context</th>
                                         <th>No of items</th>
                                         <th>Average wordcount of context</th>
@@ -45,6 +51,12 @@
                                 {% for p in x.xpath %}
                                     <tr>
                                         <td>{{ p.title }}</td>
+                                        <td>{{ p.eve }}</td>
+                                        <td>{{ p.lit }}</td>
+                                        <td>{{ p.org }}</td>
+                                        <td>{{ p.plc }}</td>
+                                        <td>{{ p.psn }}</td>
+                                        <td>{{ p.wrk }}</td>
                                         <td>
                                             <ul>
                                             {% for n in p.context %}
