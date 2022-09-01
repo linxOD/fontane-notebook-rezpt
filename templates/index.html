@@ -65,7 +65,7 @@
                                             </ul>
                                         </td>
                                         <td>{{ p.count }}</td>
-                                        {% if p.wordcount|length > 0 and "tei:note" in p.title or "tei:abstract" in p.title %}
+                                        {% if p.wordcount and "tei:note" in p.title or "tei:abstract" in p.title %}
                                         <td>{{ (p.wordcount|sum / p.wordcount|length)|round|int }}</td>
                                         {% else %}
                                         <td>0</td>

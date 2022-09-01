@@ -2,6 +2,4 @@
 .vscode
 .ipynb_checkpoints
 *.ipynb
-/html
-/notizbuecher
-*.json
+/out
