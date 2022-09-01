@@ -5,6 +5,7 @@
 * Create a Python Virtual Environment: `python venv env`
 * Activate the PVE: `python source env/bin/activate`
 * Install dependencies: `pip install -r requirements.txt`
+* Config: Change default parameters to your needs
 * Download and create zip file: `python run.py`
 * Process files: `python run_process.py`
 * Setup for Web App: `./setup.sh`
