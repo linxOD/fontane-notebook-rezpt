@@ -1,19 +1,13 @@
 import requests
 import lxml.etree as ET
 import os
-from os.path import basename
 import glob
 import jinja2
 import pandas as pd
 import json
 from zipfile import ZipFile
-
-
-NSMAP = {
-    'tei': 'http://www.tei-c.org/ns/1.0',
-    'xml': 'http://www.w3.org/XML/1998/namespace',
-    'exist': 'http://exist.sourceforge.net/NS/exist',
-}
+from os.path import basename
+from config import NSMAP
 
 
 class FtnAggDownload():

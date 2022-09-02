@@ -14,6 +14,6 @@
 
 The data output is saved in [/out](https://github.com/linxOD/fontane-notebook-rezpt/blob/main/out/) directory. It contains an archive, all xml files and processed csv tables as well as a static webapp. 
 
-# LICENCE
+# LICENSE
 
 [MIT](https://github.com/linxOD/fontane-notebook-rezpt/blob/main/LICENSE)
