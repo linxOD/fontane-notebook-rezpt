@@ -11,40 +11,51 @@
 <div class="hfeed side" id="page">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12">
-                <div class="card">
+            <div class="col-lg-12">
+                <div>
+                    <ul style="display:inline;list-style:none;">
                     {% for x in objects %}
-                        {% if x.total_notes %}
-                            <h1>Editorial Notes gesamt: {{ x.total_notes }}</h1>
+                        {% if "Notizbuch" in x.title %}
+                        <li style="display:inline;font-weight:bold;padding:.5em;">
+                            <a href="#interal___{{ x.title|replace("Notizbuch ", "") }}">{{ x.title|replace("Notizbuch ", "") }}</a>
+                        </li>
                         {% endif %}
                     {% endfor %}
+                    </ul>
                 </div>
             </div>
             <div class="col-lg-12">
                 {% for x in objects %}
-                    <div class="card">
+                    {% if "Notizbuch" in x.title %}
+                    <div class="card" id="interal___{{ x.title|replace("Notizbuch ", "") }}">
                         <div class="card-header">
                             <h2>Title: {{ x.title }}</h2>
                             <h5>Filename: {{ x.filename }}</h5>
                             <h5>Total count of nodes: {{ x.total_count }}</h5>
-                            <h5>Editorial: {{ x.date_e }}</h5>
-                            <h5>Authorial: {{ x.date_a }}</h5>
-                            <h5>Fontane: {{ x.date_f }}</h5>
+                            {% if x.date_e|length > 0 %}
+                            <h5>Date*Editorial: {{ x.date_e[0] }}</h5>
+                            {% endif %}
+                            {% if x.date_a|length > 0 %}
+                            <h5>Date*Authorial: {{ x.date_a[0] }}</h5>
+                            {% endif %}
+                            {% if x.date_f|length > 0 %}
+                            <h5>Date*Fontane: {{ x.date_f[0] }}</h5>
+                            {% endif %}
                         </div>
                         <div class="card-body">
                             <table class="table">
                                 <thead>
                                     <tr>
-                                        <th>Title</th>
-                                        <th>Event</th>
-                                        <th>Literatur, Siglen</th>
-                                        <th>Körperschaften, Inst.</th>
-                                        <th>Orte</th>
-                                        <th>Personen</th>
-                                        <th>Werke</th>
-                                        <th>Context</th>
-                                        <th>No of items</th>
-                                        <th>Average wordcount of context</th>
+                                        <th>XPath</th>
+                                        <th>Event*eve</th>
+                                        <th>Literature, Sigla*lit</th>
+                                        <th>Intitutions*org</th>
+                                        <th>Places*plc</th>
+                                        <th>Persons*psn</th>
+                                        <th>Works*wrk</th>
+                                        <th>Text Content</th>
+                                        <th>No of Nodes</th>
+                                        <th>Average wordcount of Text Content</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -76,6 +87,7 @@
                             </table>
                         </div>
                     </div>
+                    {% endif %}
                 {% endfor %}
             </div>
         </div>

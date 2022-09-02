@@ -5,7 +5,7 @@
 * Create a Python Virtual Environment: `python venv env`
 * Activate the PVE: `python source env/bin/activate`
 * Install dependencies: `pip install -r requirements.txt`
-* Config: Change default parameters to your needs
+* Config: Adapt default parameters in `config.py` to your needs
 * Download and create zip file: `python run.py`
 * Process files: `python run_process.py`
 * Setup for Web App: `./setup.sh`
@@ -14,6 +14,6 @@
 
 The data output is saved in [/out](https://github.com/linxOD/fontane-notebook-rezpt/blob/main/out/) directory. It contains an archive, all xml files and processed csv tables as well as a static webapp. 
 
-# LICENCEN
+# LICENCE
 
 [MIT](https://github.com/linxOD/fontane-notebook-rezpt/blob/main/LICENSE)
