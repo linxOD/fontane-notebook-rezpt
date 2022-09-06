@@ -47,12 +47,12 @@
                                 <thead>
                                     <tr>
                                         <th>XPath</th>
-                                        <th>Event*eve</th>
-                                        <th>Literature, Sigla*lit</th>
-                                        <th>Intitutions*org</th>
-                                        <th>Places*plc</th>
-                                        <th>Persons*psn</th>
-                                        <th>Works*wrk</th>
+                                        <th>Event@ref*eve</th>
+                                        <th>Literature@target*lit</th>
+                                        <th>Institutions@ref*org</th>
+                                        <th>Places@ref*plc</th>
+                                        <th>Persons@ref*psn</th>
+                                        <th>Works@ref*wrk</th>
                                         <!-- <th>Text Content</th> -->
                                         <th>No of Nodes</th>
                                         <th>Average wordcount of Text Content</th>
@@ -61,13 +61,31 @@
                                 <tbody>
                                 {% for p in x.xpath %}
                                     <tr>
-                                        <td>{{ p.title }}</td>
-                                        <td>{{ p.eve }}</td>
-                                        <td>{{ p.lit }}</td>
-                                        <td>{{ p.org }}</td>
-                                        <td>{{ p.plc }}</td>
-                                        <td>{{ p.psn }}</td>
-                                        <td>{{ p.wrk }}</td>
+                                        <td>
+                                            {{ p.title }}
+                                        </td>    
+                                        {% if "tei:rs" in p.title %}
+                                            <td><strong>{{ p.eve }}</strong></td>
+                                            <td>N/A</td>
+                                            <td><strong>{{ p.org }}</strong></td>
+                                            <td><strong>{{ p.plc }}</strong></td>
+                                            <td><strong>{{ p.psn }}</strong></td>
+                                            <td><strong>{{ p.wrk }}</strong></td>
+                                            {% elif "tei:ptr" in p.title %}
+                                            <td>N/A</td>
+                                            <td><strong>{{ p.lit }}</strong></td>
+                                            <td>N/A</td>
+                                            <td>N/A</td>
+                                            <td>N/A</td>
+                                            <td>N/A</td>
+                                            {% else %}
+                                            <td>N/A</td>
+                                            <td>N/A</td>
+                                            <td>N/A</td>
+                                            <td>N/A</td>
+                                            <td>N/A</td>
+                                            <td>N/A</td>
+                                        {% endif %}                                
                                         <!-- <td>
                                             <ul>
                                             {% for n in p.context %}
@@ -75,9 +93,9 @@
                                             {% endfor %}
                                             </ul>
                                         </td> -->
-                                        <td>{{ p.count }}</td>
+                                        <td><strong>{{ p.count }}</strong></td>
                                         {% if p.wordcount %}
-                                        <td>{{ (p.wordcount|sum / p.wordcount|length)|round|int }}</td>
+                                        <td><strong>{{ (p.wordcount|sum / p.wordcount|length)|round|int }}</strong></td>
                                         {% else %}
                                         <td>N/A</td>
                                         {% endif %}
