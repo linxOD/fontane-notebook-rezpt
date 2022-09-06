@@ -12,7 +12,9 @@ XPATH = [
     ".//tei:sourceDesc//tei:list[@type='authorial']/tei:item",
     ".//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item",
     ".//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item",
-    ".//tei:sourceDoc//tei:rs", ".//tei:sourceDoc//tei:date",
+    ".//tei:sourceDoc//tei:rs",
+    ".//tei:sourceDoc//tei:ptr",
+    ".//tei:sourceDoc//tei:date",
     ".//tei:sourceDoc//tei:ref",
 ]
 # added to filenames of processed data

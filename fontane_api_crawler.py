@@ -159,27 +159,34 @@ class FtnAnalyze():
                         "wrk": []
                     }
                     for e in rs:
-                        text = e.xpath("normalize-space(.//text())")
-                        if "tei:note" in x or "tei:abstract" in x or "tei:list" in x:
-                            pathObj["context"].append(text)
+                        if "tei:note" in x or "tei:list" in x:
+                            text = e.xpath("normalize-space(.//text())", namespaces=self.nsmap)
+                            # pathObj["context"].append(text)
                             words = len(text.split())
-                        else:
-                            words = 0
-                        pathObj["wordcount"].append(words)
+                            if words > 4:
+                                pathObj["wordcount"].append(words)
+                        if "tei:abstract" in x:
+                            text = e.xpath("normalize-space(.//tei:ab/text())", namespaces=self.nsmap)
+                            # pathObj["context"].append(text)
+                            words = len(text.split())
+                            if words > 4:
+                                pathObj["wordcount"].append(words)
                         if "tei:rs" in x:
-                            el_type = e.xpath("@ref")[0]
+                            el_type = e.xpath("@ref", namespaces=self.nsmap)[0]
                             if "eve:" in el_type:
-                                pathObj["eve"].append(" ".join(el_type))
-                            if "lit:" in el_type:
-                                pathObj["lit"].append(" ".join(el_type))
+                                pathObj["eve"].append(el_type)
                             if "org:" in el_type:
-                                pathObj["org"].append(" ".join(el_type))
+                                pathObj["org"].append(el_type)
                             if "plc:" in el_type:
-                                pathObj["plc"].append(" ".join(el_type))
+                                pathObj["plc"].append(el_type)
                             if "psn:" in el_type:
-                                pathObj["psn"].append(" ".join(el_type))
+                                pathObj["psn"].append(el_type)
                             if "wrk:" in el_type:
-                                pathObj["wrk"].append(" ".join(el_type))
+                                pathObj["wrk"].append(el_type)
+                        if "tei:ptr" in x:
+                            el_type = e.xpath("@target", namespaces=self.nsmap)[0]
+                            if "lit:" in el_type:
+                                pathObj["lit"].append(el_type)
                     pathObj["eve"] = len(pathObj["eve"])
                     pathObj["lit"] = len(pathObj["lit"])
                     pathObj["org"] = len(pathObj["org"])
@@ -254,27 +261,27 @@ class FtnAnalyze():
                     if i["eve"]:
                         eve = i["eve"]
                     else:
-                        eve = 0
+                        eve = "N/A"
                     if i["lit"]:
                         lit = i["lit"]
                     else:
-                        lit = 0
+                        lit = "N/A"
                     if i["org"]:
                         org = i["org"]
                     else:
-                        org = 0
+                        org = "N/A"
                     if i["plc"]:
                         plc = i["plc"]
                     else:
-                        plc = 0
+                        plc = "N/A"
                     if i["psn"]:
                         psn = i["psn"]
                     else:
-                        psn = 0
+                        psn = "N/A"
                     if i["wrk"]:
                         wrk = i["wrk"]
                     else:
-                        wrk = 0
+                        wrk = "N/A"
                     table.append([x["filename"], x["title"], eve, lit, org, plc, psn, wrk, date, date2, date3, i["count"], i["title"], int(round(average, 0))])
             if "ODD" in x["title"]:
                 for i in x["elementSpec"]:

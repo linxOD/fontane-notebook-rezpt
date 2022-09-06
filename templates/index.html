@@ -53,7 +53,7 @@
                                         <th>Places*plc</th>
                                         <th>Persons*psn</th>
                                         <th>Works*wrk</th>
-                                        <th>Text Content</th>
+                                        <!-- <th>Text Content</th> -->
                                         <th>No of Nodes</th>
                                         <th>Average wordcount of Text Content</th>
                                     </tr>
@@ -68,18 +68,18 @@
                                         <td>{{ p.plc }}</td>
                                         <td>{{ p.psn }}</td>
                                         <td>{{ p.wrk }}</td>
-                                        <td>
+                                        <!-- <td>
                                             <ul>
                                             {% for n in p.context %}
                                                 <li>{{ n }}</li>
                                             {% endfor %}
                                             </ul>
-                                        </td>
+                                        </td> -->
                                         <td>{{ p.count }}</td>
-                                        {% if p.wordcount and "tei:note" in p.title or "tei:abstract" in p.title %}
+                                        {% if p.wordcount %}
                                         <td>{{ (p.wordcount|sum / p.wordcount|length)|round|int }}</td>
                                         {% else %}
-                                        <td>0</td>
+                                        <td>N/A</td>
                                         {% endif %}
                                     </tr>
                                 {% endfor %}
