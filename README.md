@@ -3,7 +3,7 @@
 ## How To CLI
 
 * Create a Python Virtual Environment: `python venv env`
-* Activate the PVE: `python source env/bin/activate`
+* Activate the PVE: `source env/bin/activate`
 * Install dependencies: `pip install -r requirements.txt`
 * Config: Adapt default parameters in `config.py` to your needs
 * Download and create zip file: `python run.py`

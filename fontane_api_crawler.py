@@ -224,7 +224,7 @@ class FtnAnalyze():
         data = data
         templateLoader = jinja2.FileSystemLoader(searchpath=".")
         templateEnv = jinja2.Environment(loader=templateLoader, trim_blocks=True, lstrip_blocks=True)
-        template = templateEnv.get_template('./templates/index.html')
+        template = templateEnv.get_template('./templates/index.j2')
         os.makedirs(os.path.join('out', 'html'), exist_ok=True)
         with open(os.path.join('out', 'html', 'index.html'), 'w') as f:
             f.write(template.render({"objects": data}))
