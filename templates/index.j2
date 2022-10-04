@@ -55,7 +55,8 @@
                                         <th>Works@ref*wrk</th>
                                         <!-- <th>Text Content</th> -->
                                         <th>No of Nodes</th>
-                                        <th>Average wordcount of Text Content</th>
+                                        <th>Average wordcount</th>
+                                        <th>Total wordcount</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -96,6 +97,75 @@
                                         <td><strong>{{ p.count }}</strong></td>
                                         {% if p.wordcount %}
                                         <td><strong>{{ (p.wordcount|sum / p.wordcount|length)|round|int }}</strong></td>
+                                        {% else %}
+                                        <td>N/A</td>
+                                        {% endif %}
+                                        {% if p.count > 0 and p.wordcount %}
+                                        <td>{{ (p.wordcount|sum / p.wordcount|length)|round|int * p.count }}</td>
+                                        {% else %}
+                                        <td>N/A</td>
+                                        {% endif %}
+                                    </tr>
+                                {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% if "register" in x.title or "verzeichnis" in x.title or "Register" in x.title %}
+                    <div class="card" id="interal___{{ x.title }}">
+                        <div class="card-header">
+                            <h2>Title: {{ x.title }}</h2>
+                            <h5>Filename: {{ x.filename }}</h5>
+                            <h5>Total count of nodes: {{ x.total_count }}</h5>
+                            {% if x.date_e|length > 0 %}
+                            <h5>Date*Editorial: {{ x.date_e[0] }}</h5>
+                            {% endif %}
+                            {% if x.date_a|length > 0 %}
+                            <h5>Date*Authorial: {{ x.date_a[0] }}</h5>
+                            {% endif %}
+                            {% if x.date_f|length > 0 %}
+                            <h5>Date*Fontane: {{ x.date_f[0] }}</h5>
+                            {% endif %}
+                        </div>
+                        <div class="card-body">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>XPath</th>
+                                        <th>Event</th>
+                                        <th>Persons</th>
+                                        <th>Places</th>
+                                        <th>Literature</th>
+                                        <th>Institutions</th>
+                                        <th>Works</th>
+                                        <th>No of Nodes</th>
+                                        <th>Average wordcount</th>
+                                        <th>Total wordcount</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                {% for p in x.xpath %}
+                                    <tr>
+                                        <td>
+                                            {{ p.title }}
+                                        </td>    
+                                        <td><strong>{{ p.event }}</strong></td>
+                                        <td><strong>
+                                            {{ p.person }}
+                                        </strong></td>
+                                        <td><strong>{{ p.place }}</strong></td>
+                                        <td><strong>{{ p.bibl }}</strong></td>
+                                        <td><strong>{{ p.org }}</strong></td>
+                                        <td><strong>{{ p.list }}</strong></td>                    
+                                        <td><strong>{{ p.count }}</strong></td>
+                                        {% if p.wordcount %}
+                                        <td><strong>{{ (p.wordcount|sum / p.wordcount|length)|round|int }}</strong></td>
+                                        {% else %}
+                                        <td>N/A</td>
+                                        {% endif %}
+                                        {% if p.count > 0 and p.wordcount %}
+                                        <td>{{ (p.wordcount|sum / p.wordcount|length)|round|int * p.count }}</td>
                                         {% else %}
                                         <td>N/A</td>
                                         {% endif %}

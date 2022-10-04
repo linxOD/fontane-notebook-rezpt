@@ -10,6 +10,6 @@ fontane = FtnAnalyze(
     out_dir=OUT_DIR
 )
 fp = os.path.join('out', IN_DIR, 'tei_only', '*.xml')
-nodes = fontane.find_tei_elements(XPATH, filename=FILENAME, filepath=fp)
+nodes = fontane.find_tei_elements(xpath=XPATH, filename=FILENAME, filepath=fp)
 fontane.create_csv_data(data=nodes, filename=FILENAME)
 fontane.create_html_view(data=nodes)

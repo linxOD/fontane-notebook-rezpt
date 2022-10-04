@@ -2,6 +2,7 @@
 XPATH = [
     ".//tei:sourceDoc//tei:note[@type='editorial']",
     ".//tei:sourceDoc//tei:note[@type='authorial']",
+    ".//tei:sourceDoc/tei:surface",
     ".//tei:sourceDoc//tei:surface",
     ".//tei:sourceDoc//tei:add",
     ".//tei:sourceDoc//tei:zone",
@@ -16,6 +17,11 @@ XPATH = [
     ".//tei:sourceDoc//tei:ptr",
     ".//tei:sourceDoc//tei:date",
     ".//tei:sourceDoc//tei:ref",
+    ".//tei:body/tei:listPerson/tei:person",
+    ".//tei:body/tei:listPlace/tei:place",
+    ".//tei:body/tei:list/tei:item/tei:list/tei:item",
+    ".//tei:body/tei:listBibl/tei:listBibl/tei:bibl",
+    ".//tei:body/tei:listEvent/tei:listEvent/tei:event"
 ]
 # added to filenames of processed data
 FILENAME = "all"

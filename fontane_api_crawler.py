@@ -5,6 +5,8 @@ import glob
 import jinja2
 import pandas as pd
 import json
+import re
+
 from zipfile import ZipFile
 from os.path import basename
 from config import NSMAP
@@ -126,12 +128,115 @@ class FtnAnalyze():
             fn = basename(x).replace(".xml", "")
             title = tree.xpath(".//tei:title/text()", namespaces=self.nsmap)[0]
             date = tree.xpath(".//tei:creation/tei:date[@type='editorial']//tei:date/@when-iso", namespaces=self.nsmap)
+            # print(fn)
             if len(date) >= 1:
                 date = tree.xpath(".//tei:creation/tei:date[@type='editorial']//tei:date/@when-iso", namespaces=self.nsmap)
             else:
                 date = tree.xpath(".//tei:creation/tei:date[@type='editorial']/text()", namespaces=self.nsmap)
             date2 = tree.xpath(".//tei:creation/tei:date[@type='authorial']/text()", namespaces=self.nsmap)
             date3 = tree.xpath(".//tei:creation/tei:date[@type='Friedrich_Fontane']/text()", namespaces=self.nsmap)
+            if "register" in title or "verzeichnis" in title or "Register" in title and "ODD" not in title:
+                item = {
+                    "filename": fn,
+                    "title": title,
+                    "date_e": date,
+                    "date_a": date2,
+                    "date_f": date3,
+                    "xpath": []
+                }
+                total_count = 0;
+                for x in xpath:
+                    rs = tree.xpath(x, namespaces=self.nsmap)
+                    total_count += len(rs)
+                    
+                    pathObj = {
+                        "title": x,
+                        "context": [],
+                        "wordcount": [],
+                        "count": len(rs),
+                        "person": [],
+                        "place": [],
+                        "event": [],
+                        "bibl": [],
+                        "list": [],
+                        "org": []
+                    }
+                    for e in rs:
+                        if "tei:listPerson" in x:
+                            idno = e.xpath("./tei:idno", namespaces=self.nsmap)
+                            i_type = e.xpath("./tei:idno/@type", namespaces=self.nsmap)
+                            # pathObj["context"].append(text)
+                            if idno:
+                                pathObj["person"].append(
+                                    {
+                                        "type": i_type[0],
+                                        "length": len(idno)
+                                    }
+                                )
+                    for e in rs:
+                        if "tei:listPlace" in x:
+                            idno = e.xpath("./tei:idno", namespaces=self.nsmap)
+                            i_type = e.xpath("./tei:idno/@type", namespaces=self.nsmap)
+                            # pathObj["context"].append(text)
+                            if idno:
+                                pathObj["place"].append(
+                                    {
+                                        "type": i_type[0],
+                                        "length": len(idno)
+                                    }
+                                )
+                    for e in rs:
+                        if "tei:list/tei:list" in x:
+                            idno = e.xpath("./tei:idno", namespaces=self.nsmap)
+                            i_type = e.xpath("./tei:idno/@type", namespaces=self.nsmap)
+                            # pathObj["context"].append(text)
+                            if idno:
+                                pathObj["list"].append(
+                                    {
+                                        "type": i_type[0],
+                                        "length": len(idno)
+                                    }
+                                )
+                    for e in rs:
+                        if "tei:listOrg" in x:
+                            idno = e.xpath("./tei:idno", namespaces=self.nsmap)
+                            i_type = e.xpath("./tei:idno/@type", namespaces=self.nsmap)
+                            # pathObj["context"].append(text)
+                            if idno:
+                                pathObj["org"].append(
+                                    {
+                                        "type": i_type[0],
+                                        "length": len(idno)
+                                    }
+                                )
+                    for e in rs:
+                        if "tei:listBibl" in x:
+                            idno = e.xpath("./tei:idno", namespaces=self.nsmap)
+                            i_type = e.xpath("./tei:idno/@type", namespaces=self.nsmap)
+                            # pathObj["context"].append(text)
+                            if idno:
+                                pathObj["bibl"].append(
+                                    {
+                                        "type": i_type[0],
+                                        "length": len(idno)
+                                    }
+                                )
+                    for e in rs:
+                        if "tei:listEvent" in x:
+                            idno = e.xpath("./tei:idno", namespaces=self.nsmap)
+                            i_type = e.xpath("./tei:idno/@type", namespaces=self.nsmap)
+                            # pathObj["context"].append(text)
+                            if idno:
+                                pathObj["event"].append(
+                                    {
+                                        "type": i_type[0],
+                                        "length": len(idno)
+                                    }
+                                )
+                    item["xpath"].append(pathObj)
+                item["total_count"] = total_count
+                notes.append(item)
+                # print(pathObj)
             if "Notizbuch" in title:
                 item = {
                     "filename": fn,
@@ -156,7 +261,8 @@ class FtnAnalyze():
                         "org": [],
                         "plc": [],
                         "psn": [],
-                        "wrk": []
+                        "wrk": [],
+                        "s_text": []
                     }
                     for e in rs:
                         if "tei:note" in x or "tei:list" in x:
@@ -187,6 +293,18 @@ class FtnAnalyze():
                             el_type = e.xpath("@target", namespaces=self.nsmap)[0]
                             if "lit:" in el_type:
                                 pathObj["lit"].append(el_type)
+                        if "tei:surface" in x:
+                            s_text = e.xpath(".//text()", namespaces=self.nsmap)
+                            # print(s_text)[0]
+                            s_text = " ".join(s_text)
+                            s_text = s_text.replace("\n", "")
+                            s_text = s_text.replace("\t", "")
+                            s_text = re.sub(r'[,.:;]', '', s_text, flags=re.MULTILINE)
+                            # pathObj["s_text"].append(s_text)
+                            s_word = s_text.split()
+                            # print(s_word)[0]
+                            sl_word = len(s_word)
+                            pathObj["wordcount"].append(sl_word)
                     pathObj["eve"] = len(pathObj["eve"])
                     pathObj["lit"] = len(pathObj["lit"])
                     pathObj["org"] = len(pathObj["org"])
@@ -213,6 +331,7 @@ class FtnAnalyze():
                     item["elementSpec"].append(el)
                 item["elementSpecLg"] = len(elementSpec)
                 notes.append(item)
+        # print(notes)
         os.makedirs(os.path.join('out', self.out_dir), exist_ok=True)
         with open(os.path.join('out', self.out_dir, f"{filename}.json"), "w") as f:
             json.dump(notes, f)
@@ -235,7 +354,85 @@ class FtnAnalyze():
         data = data
         table = []
         table1 = []
+        table3 = []
         for x in data:
+            if "register" in x["title"] or "verzeichnis" in x["title"] or "Register" in x["title"] and "ODD" not in x["title"]:
+                if x["date_e"]:
+                    date = " ".join(x["date_e"])
+                    date = date.replace("\n", "")
+                    date = date.replace("  ", "")
+                else: 
+                    date = ""
+                if x["date_a"]:
+                    date2 = " ".join(x["date_a"])
+                else: 
+                    date2 = ""
+                if x["date_f"]:
+                    date3 = " ".join(x["date_f"])
+                else: 
+                    date3 = ""
+                for i in x["xpath"]:
+                    if i["wordcount"]:
+                        Sum = sum(i["wordcount"])
+                        Len = len(i["wordcount"])
+                        average = Sum / Len
+                    else:
+                        average = 0
+                    if i["person"]:
+                        res = {}
+                        for v in i["person"]:
+                            if v["type"] in res:
+                                res[v["type"]] += v["length"]
+                            else:
+                                res[v["type"]] = v["length"]
+                    else:
+                        res = 0
+                    if i["place"]:
+                        res_p = {}
+                        for v in i["place"]:
+                            if v["type"] in res_p:
+                                res_p[v["type"]] += v["length"]
+                            else:
+                                res_p[v["type"]] = v["length"]
+                    else:
+                        res_p = 0
+                    if i["event"]:
+                        res_e = {}
+                        for v in i["event"]:
+                            if v["type"] in res_e:
+                                res_e[v["type"]] += v["length"]
+                            else:
+                                res_e[v["type"]] = v["length"]
+                    else:
+                        res_e = 0
+                    if i["list"]:
+                        res_l = {}
+                        for v in i["list"]:
+                            if v["type"] in res_l:
+                                res_l[v["type"]] += v["length"]
+                            else:
+                                res_l[v["type"]] = v["length"]
+                    else:
+                        res_l = 0
+                    if i["bibl"]:
+                        res_b = {}
+                        for v in i["bibl"]:
+                            if v["type"] in res_b:
+                                res_b[v["type"]] += v["length"]
+                            else:
+                                res_b[v["type"]] = v["length"]
+                    else:
+                        res_b = 0
+                    if i["org"]:
+                        res_o = {}
+                        for v in i["org"]:
+                            if v["type"] in res_o:
+                                res_o[v["type"]] += v["length"]
+                            else:
+                                res_o[v["type"]] = v["length"]
+                    else:
+                        res_o = 0
+                    table3.append([x["filename"], x["title"], res, res_p, res_e, res_l, res_b, res_o, date, date2, date3, int(i["count"]), i["title"], round(int(average), 0)])
             if "Notizbuch" in x["title"]:
                 if x["date_e"]:
                     date = " ".join(x["date_e"])
@@ -282,7 +479,11 @@ class FtnAnalyze():
                         wrk = i["wrk"]
                     else:
                         wrk = "N/A"
-                    table.append([x["filename"], x["title"], eve, lit, org, plc, psn, wrk, date, date2, date3, i["count"], i["title"], int(round(average, 0))])
+                    # if i["s_text"]:
+                    #     s_text = " ".join(i["s_text"])
+                    # else:
+                    #     s_text = "N/A"
+                    table.append([x["filename"], x["title"], eve, lit, org, plc, psn, wrk, date, date2, date3, int(i["count"]), i["title"], round(int(average), 0)])
             if "ODD" in x["title"]:
                 for i in x["elementSpec"]:
                     table1.append([x["title"], "/".join(x["moduleRef"]), x["elementSpecLg"], i["ident"][0], "/".join(i["attDef"]), len(i["attDef"]), "/".join(i["valItem"]), len(i["valItem"])])
@@ -292,6 +493,9 @@ class FtnAnalyze():
         df = pd.DataFrame(table1, columns=['title', 'modules', 'count_elements', 'el_ident', 'attDef', 'attDef_len', 'valItem', 'valItem_len'])
         df.to_csv(os.path.join('out', self.out_dir, f"fonante_editorial_{filename}_odd.csv"), sep=",", encoding='utf-8', index=False)
         print(f"table created: {os.path.join('out', self.out_dir, f'fonante_editorial_{filename}_odd.csv')}")
+        df = pd.DataFrame(table3, columns=['filename', 'notebook_title', 'person', 'place', 'event', 'list', 'bibl', 'org', 'date_e', 'date_a', 'date_f', 'count_context', 'context', 'average_context'])
+        df.to_csv(os.path.join('out', self.out_dir, f"fonante_editorial_{filename}_register.csv"), sep=",", encoding='utf-8', index=False)
+        print(f"table created: {os.path.join('out', self.out_dir, f'fonante_editorial_{filename}_register.csv')}")
         return data
     
     def __init__(

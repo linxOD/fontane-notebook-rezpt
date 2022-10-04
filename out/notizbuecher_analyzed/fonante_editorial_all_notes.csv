@@ -1,7 +1,8 @@
 filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_context,context,average_context
 1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,2,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,106,.//tei:sourceDoc//tei:surface,0
+1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,101,.//tei:sourceDoc/tei:surface,80
+1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,106,.//tei:sourceDoc//tei:surface,76
 1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,287,.//tei:sourceDoc//tei:add,0
 1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,309,.//tei:sourceDoc//tei:zone,0
 1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,1677,.//tei:sourceDoc//tei:line,0
@@ -15,15 +16,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:sourceDoc//tei:ptr,0
 1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,36,.//tei:sourceDoc//tei:date,0
 1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,79,.//tei:sourceDoc//tei:ref,0
-22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,10,.//tei:sourceDoc//tei:note[@type='editorial'],28
+1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzds,Notizbuch C11,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,10,.//tei:sourceDoc//tei:note[@type='editorial'],27
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,9,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,141,.//tei:sourceDoc//tei:surface,0
+22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,135,.//tei:sourceDoc/tei:surface,19
+22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,141,.//tei:sourceDoc//tei:surface,19
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,11,.//tei:sourceDoc//tei:add,0
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,158,.//tei:sourceDoc//tei:zone,0
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,909,.//tei:sourceDoc//tei:line,0
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,336,.//tei:sourceDoc//tei:seg,0
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,1,.//tei:abstract,0
-22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,9,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
+22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,9,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,9
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,12
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,20
@@ -31,9 +38,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jt8,Notizbuch B3,N/A,8,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,8,.//tei:sourceDoc//tei:ptr,0
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,1,.//tei:sourceDoc//tei:date,0
 22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,15,.//tei:sourceDoc//tei:ref,0
+22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jt8,Notizbuch B3,N/A,N/A,N/A,N/A,N/A,N/A,1879-09-27 1879-10-02 1879-10-10 1879-11-04 1879-11-08 1879-11-11 1879-11-17,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,10,.//tei:sourceDoc//tei:note[@type='editorial'],28
 1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,153,.//tei:sourceDoc//tei:surface,0
+1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,127,.//tei:sourceDoc/tei:surface,64
+1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,153,.//tei:sourceDoc//tei:surface,68
 1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,46,.//tei:sourceDoc//tei:add,0
 1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,470,.//tei:sourceDoc//tei:zone,0
 1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,2103,.//tei:sourceDoc//tei:line,0
@@ -47,9 +60,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:ptr,0
 1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,45,.//tei:sourceDoc//tei:date,0
 1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,35,.//tei:sourceDoc//tei:ref,0
+1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzf2,Notizbuch E2,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDoc//tei:note[@type='editorial'],11
 1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,3,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,308,.//tei:sourceDoc//tei:surface,0
+1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,287,.//tei:sourceDoc/tei:surface,51
+1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,308,.//tei:sourceDoc//tei:surface,68
 1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,89,.//tei:sourceDoc//tei:add,0
 1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,327,.//tei:sourceDoc//tei:zone,0
 1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,2656,.//tei:sourceDoc//tei:line,0
@@ -63,9 +82,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:ptr,0
 1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,83,.//tei:sourceDoc//tei:date,0
 1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,39,.//tei:sourceDoc//tei:ref,0
+1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1rhdj,Notizbuch A12,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,125,.//tei:sourceDoc//tei:surface,0
+1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,121,.//tei:sourceDoc/tei:surface,38
+1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,125,.//tei:sourceDoc//tei:surface,36
 1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,52,.//tei:sourceDoc//tei:add,0
 1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,330,.//tei:sourceDoc//tei:zone,0
 1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,1666,.//tei:sourceDoc//tei:line,0
@@ -79,15 +104,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:sourceDoc//tei:ptr,0
 1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,15,.//tei:sourceDoc//tei:date,0
 1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,24,.//tei:sourceDoc//tei:ref,0
+1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:listPerson/tei:person,0
+1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:listPlace/tei:place,0
+1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1rhdp,Notizbuch C10,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,23,.//tei:sourceDoc//tei:note[@type='editorial'],24
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,134,.//tei:sourceDoc//tei:surface,0
+22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,129,.//tei:sourceDoc/tei:surface,51
+22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,134,.//tei:sourceDoc//tei:surface,49
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,71,.//tei:sourceDoc//tei:add,0
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,233,.//tei:sourceDoc//tei:zone,0
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,2005,.//tei:sourceDoc//tei:line,0
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,919,.//tei:sourceDoc//tei:seg,0
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,1,.//tei:abstract,0
-22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,25,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
+22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,25,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,9
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,40
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,0
@@ -95,9 +126,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtf,Notizbuch B13,N/A,18,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,18,.//tei:sourceDoc//tei:ptr,0
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,0,.//tei:sourceDoc//tei:date,0
 22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,44,.//tei:sourceDoc//tei:ref,0
+22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtf,Notizbuch B13,N/A,N/A,N/A,N/A,N/A,N/A,1878-01-16 1878-01-30 1878-02-08 1878-02-22 1878-03-22 1878-03-24 1878-03-25 1878-03-27 1878-04-01 1878-04-27 1878-05-01 1878-05-02 1878-05-03 1878-05-04 1878-05-23 1878-05-24 1878 1878-05-27,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,2,.//tei:sourceDoc//tei:note[@type='editorial'],36
 1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,102,.//tei:sourceDoc//tei:surface,0
+1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,93,.//tei:sourceDoc/tei:surface,17
+1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,102,.//tei:sourceDoc//tei:surface,18
 1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,17,.//tei:sourceDoc//tei:add,0
 1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,181,.//tei:sourceDoc//tei:zone,0
 1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,527,.//tei:sourceDoc//tei:line,0
@@ -111,15 +148,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zwx0,Notizbuch E4,N/A,3,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,3,.//tei:sourceDoc//tei:ptr,0
 1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,9,.//tei:sourceDoc//tei:date,0
 1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,33,.//tei:sourceDoc//tei:ref,0
-22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,4,.//tei:sourceDoc//tei:note[@type='editorial'],18
+1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,0,.//tei:body/tei:listPerson/tei:person,0
+1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,0,.//tei:body/tei:listPlace/tei:place,0
+1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zwx0,Notizbuch E4,N/A,N/A,N/A,N/A,N/A,N/A,"XXX: (Briefkonzept: An Martha Fontane, (Der Thorenspiegel), (Ellernklipp)",,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,4,.//tei:sourceDoc//tei:note[@type='editorial'],17
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,265,.//tei:sourceDoc//tei:surface,0
+22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,257,.//tei:sourceDoc/tei:surface,38
+22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,265,.//tei:sourceDoc//tei:surface,37
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,163,.//tei:sourceDoc//tei:add,0
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,714,.//tei:sourceDoc//tei:zone,0
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,2526,.//tei:sourceDoc//tei:line,0
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,1945,.//tei:sourceDoc//tei:seg,0
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:abstract,0
-22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,57,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,8
+22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,57,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,7
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,57
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,56
@@ -127,15 +170,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:ptr,0
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,120,.//tei:sourceDoc//tei:date,0
 22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,111,.//tei:sourceDoc//tei:ref,0
+22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtq,Notizbuch A7,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,141,.//tei:sourceDoc//tei:surface,0
+22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,133,.//tei:sourceDoc/tei:surface,47
+22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,141,.//tei:sourceDoc//tei:surface,45
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,141,.//tei:sourceDoc//tei:add,0
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,365,.//tei:sourceDoc//tei:zone,0
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,1610,.//tei:sourceDoc//tei:line,0
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,1011,.//tei:sourceDoc//tei:seg,0
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:abstract,0
-22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,16,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,8
+22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,16,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,7
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,13
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,12
@@ -143,9 +192,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:ptr,0
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,46,.//tei:sourceDoc//tei:date,0
 22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,69,.//tei:sourceDoc//tei:ref,0
-1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,22,.//tei:sourceDoc//tei:note[@type='editorial'],18
+22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtr,Notizbuch A13,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,22,.//tei:sourceDoc//tei:note[@type='editorial'],17
 1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,163,.//tei:sourceDoc//tei:surface,0
+1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,145,.//tei:sourceDoc/tei:surface,67
+1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,163,.//tei:sourceDoc//tei:surface,64
 1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,115,.//tei:sourceDoc//tei:add,0
 1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,536,.//tei:sourceDoc//tei:zone,0
 1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,2246,.//tei:sourceDoc//tei:line,0
@@ -159,9 +214,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdx,Notizbuch D6,N/A,16,N/A,N/A,N/A,N/A,1870,1870,,18,.//tei:sourceDoc//tei:ptr,0
 1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,76,.//tei:sourceDoc//tei:date,0
 1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,81,.//tei:sourceDoc//tei:ref,0
+1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdx,Notizbuch D6,N/A,N/A,N/A,N/A,N/A,N/A,1870,1870,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDoc//tei:note[@type='editorial'],75
 1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,2,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,202,.//tei:sourceDoc//tei:surface,0
+1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,187,.//tei:sourceDoc/tei:surface,54
+1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,202,.//tei:sourceDoc//tei:surface,53
 1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,162,.//tei:sourceDoc//tei:add,0
 1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,782,.//tei:sourceDoc//tei:zone,0
 1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,2517,.//tei:sourceDoc//tei:line,0
@@ -175,15 +236,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdm,Notizbuch A3,N/A,1,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDoc//tei:ptr,0
 1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,53,.//tei:sourceDoc//tei:date,0
 1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,173,.//tei:sourceDoc//tei:ref,0
+1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdm,Notizbuch A3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,2,.//tei:sourceDoc//tei:note[@type='editorial'],25
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,181,.//tei:sourceDoc//tei:surface,0
+2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,172,.//tei:sourceDoc/tei:surface,45
+2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,181,.//tei:sourceDoc//tei:surface,44
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,117,.//tei:sourceDoc//tei:add,0
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,726,.//tei:sourceDoc//tei:zone,0
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,2174,.//tei:sourceDoc//tei:line,0
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,1096,.//tei:sourceDoc//tei:seg,0
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,1,.//tei:abstract,0
-2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,35,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,22
+2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,35,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,21
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,16
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,17
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,16
@@ -191,15 +258,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128d,Notizbuch A2,N/A,1,N/A,N/A,N/A,N/A,1873,1873,,1,.//tei:sourceDoc//tei:ptr,0
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,83,.//tei:sourceDoc//tei:date,0
 2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,119,.//tei:sourceDoc//tei:ref,0
+2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,0,.//tei:body/tei:listPerson/tei:person,0
+2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,0,.//tei:body/tei:listPlace/tei:place,0
+2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128d,Notizbuch A2,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,179,.//tei:sourceDoc//tei:surface,0
+1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,166,.//tei:sourceDoc/tei:surface,10
+1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,179,.//tei:sourceDoc//tei:surface,11
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,15,.//tei:sourceDoc//tei:add,0
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,200,.//tei:sourceDoc//tei:zone,0
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,474,.//tei:sourceDoc//tei:line,0
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,301,.//tei:sourceDoc//tei:seg,0
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,1,.//tei:abstract,32
-1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,10,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
+1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,10,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,9
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,24
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,6
@@ -207,9 +280,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,0,.//tei:sourceDoc//tei:ptr,0
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,18,.//tei:sourceDoc//tei:date,0
 1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,15,.//tei:sourceDoc//tei:ref,0
+1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,0,.//tei:body/tei:listPerson/tei:person,0
+1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,0,.//tei:body/tei:listPlace/tei:place,0
+1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1rhds,Notizbuch E1,N/A,N/A,N/A,N/A,N/A,N/A,1874 1878,1874,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,1,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,6,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,281,.//tei:sourceDoc//tei:surface,0
+1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,259,.//tei:sourceDoc/tei:surface,35
+1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,281,.//tei:sourceDoc//tei:surface,47
 1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,44,.//tei:sourceDoc//tei:add,0
 1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,400,.//tei:sourceDoc//tei:zone,0
 1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,1827,.//tei:sourceDoc//tei:line,0
@@ -223,15 +302,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:sourceDoc//tei:ptr,0
 1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,46,.//tei:sourceDoc//tei:date,0
 1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,67,.//tei:sourceDoc//tei:ref,0
-22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,13,.//tei:sourceDoc//tei:note[@type='editorial'],36
+1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:listPerson/tei:person,0
+1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:listPlace/tei:place,0
+1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1rhdn,Notizbuch C4,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,13,.//tei:sourceDoc//tei:note[@type='editorial'],35
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,125,.//tei:sourceDoc//tei:surface,0
+22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,113,.//tei:sourceDoc/tei:surface,22
+22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,125,.//tei:sourceDoc//tei:surface,22
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,46,.//tei:sourceDoc//tei:add,0
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,221,.//tei:sourceDoc//tei:zone,0
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,813,.//tei:sourceDoc//tei:line,0
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,418,.//tei:sourceDoc//tei:seg,0
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,1,.//tei:abstract,47
-22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,14,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,13
+22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,14,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,12
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,13
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,13
@@ -239,9 +324,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jts,Notizbuch B4,N/A,10,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,10,.//tei:sourceDoc//tei:ptr,0
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,4,.//tei:sourceDoc//tei:date,0
 22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,19,.//tei:sourceDoc//tei:ref,0
+22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jts,Notizbuch B4,N/A,N/A,N/A,N/A,N/A,N/A,1877-08-07 1877-08-10 1878-12 1879-02-21 1879-03-20 1879-03-24 1879-04-17,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,12,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,157,.//tei:sourceDoc//tei:surface,0
+1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,145,.//tei:sourceDoc/tei:surface,43
+1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,157,.//tei:sourceDoc//tei:surface,52
 1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,54,.//tei:sourceDoc//tei:add,0
 1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,377,.//tei:sourceDoc//tei:zone,0
 1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,1669,.//tei:sourceDoc//tei:line,0
@@ -255,6 +346,11 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:sourceDoc//tei:ptr,0
 1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,62,.//tei:sourceDoc//tei:date,0
 1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,51,.//tei:sourceDoc//tei:ref,0
+1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:listPerson/tei:person,0
+1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:listPlace/tei:place,0
+1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1rhdk,Notizbuch A18,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
                      ,  
                 ",,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
@@ -263,7 +359,10 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
                 ",,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
 2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
                      ,  
-                ",,167,.//tei:sourceDoc//tei:surface,0
+                ",,161,.//tei:sourceDoc/tei:surface,38
+2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,167,.//tei:sourceDoc//tei:surface,37
 2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
                      ,  
                 ",,270,.//tei:sourceDoc//tei:add,0
@@ -303,9 +402,25 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
                      ,  
                 ",,40,.//tei:sourceDoc//tei:ref,0
+2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:listPerson/tei:person,0
+2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:listPlace/tei:place,0
+2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128n,Notizbuch A17,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,12,.//tei:sourceDoc//tei:note[@type='editorial'],17
 1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,5,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,140,.//tei:sourceDoc//tei:surface,0
+1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,129,.//tei:sourceDoc/tei:surface,49
+1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,140,.//tei:sourceDoc//tei:surface,47
 1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,84,.//tei:sourceDoc//tei:add,0
 1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,372,.//tei:sourceDoc//tei:zone,0
 1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,1607,.//tei:sourceDoc//tei:line,0
@@ -319,9 +434,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdp,Notizbuch C5,N/A,16,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,16,.//tei:sourceDoc//tei:ptr,0
 1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,103,.//tei:sourceDoc//tei:date,0
 1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,43,.//tei:sourceDoc//tei:ref,0
+1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdp,Notizbuch C5,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,1,.//tei:sourceDoc//tei:note[@type='editorial'],94
 16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,145,.//tei:sourceDoc//tei:surface,0
+16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,141,.//tei:sourceDoc/tei:surface,23
+16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,145,.//tei:sourceDoc//tei:surface,23
 16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,38,.//tei:sourceDoc//tei:add,0
 16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,280,.//tei:sourceDoc//tei:zone,0
 16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,943,.//tei:sourceDoc//tei:line,0
@@ -335,15 +456,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:sourceDoc//tei:ptr,0
 16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,30,.//tei:sourceDoc//tei:date,0
 16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,39,.//tei:sourceDoc//tei:ref,0
-22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,11,.//tei:sourceDoc//tei:note[@type='editorial'],38
+16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:listPerson/tei:person,0
+16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:listPlace/tei:place,0
+16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+16b9z,Notizbuch C2,N/A,N/A,N/A,N/A,N/A,N/A,1867,1867,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,11,.//tei:sourceDoc//tei:note[@type='editorial'],37
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,8,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,134,.//tei:sourceDoc//tei:surface,0
+22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,129,.//tei:sourceDoc/tei:surface,20
+22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,134,.//tei:sourceDoc//tei:surface,20
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,14,.//tei:sourceDoc//tei:add,0
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,224,.//tei:sourceDoc//tei:zone,0
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,987,.//tei:sourceDoc//tei:line,0
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,488,.//tei:sourceDoc//tei:seg,0
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,1,.//tei:abstract,0
-22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,12,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,9
+22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,12,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,8
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,12
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,13
@@ -351,9 +478,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtg,Notizbuch B14,N/A,10,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,10,.//tei:sourceDoc//tei:ptr,0
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,1,.//tei:sourceDoc//tei:date,0
 22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,23,.//tei:sourceDoc//tei:ref,0
+22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtg,Notizbuch B14,N/A,N/A,N/A,N/A,N/A,N/A,1880-10-09 1880-10-23 1880-11-18 1880-11-27 1880-12-07 1880-12-11 1880-12-13,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,199,.//tei:sourceDoc//tei:surface,0
+1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,193,.//tei:sourceDoc/tei:surface,38
+1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,199,.//tei:sourceDoc//tei:surface,37
 1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,92,.//tei:sourceDoc//tei:add,0
 1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,493,.//tei:sourceDoc//tei:zone,0
 1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,2441,.//tei:sourceDoc//tei:line,0
@@ -367,15 +500,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:sourceDoc//tei:ptr,0
 1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,6,.//tei:sourceDoc//tei:date,0
 1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,74,.//tei:sourceDoc//tei:ref,0
+1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdv,Notizbuch C14,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,2,.//tei:sourceDoc//tei:note[@type='editorial'],14
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,2,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,250,.//tei:sourceDoc//tei:surface,0
+22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,241,.//tei:sourceDoc/tei:surface,56
+22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,250,.//tei:sourceDoc//tei:surface,55
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,347,.//tei:sourceDoc//tei:add,0
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,636,.//tei:sourceDoc//tei:zone,0
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,3173,.//tei:sourceDoc//tei:line,0
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,1739,.//tei:sourceDoc//tei:seg,0
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,1,.//tei:abstract,75
-22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,22,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,19
+22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,22,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,18
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,13
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,13
@@ -383,15 +522,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,0,.//tei:sourceDoc//tei:ptr,0
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,3,.//tei:sourceDoc//tei:date,0
 22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,98,.//tei:sourceDoc//tei:ref,0
+22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtp,Notizbuch A5,N/A,N/A,N/A,N/A,N/A,N/A,1862,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,1,.//tei:sourceDoc//tei:note[@type='editorial'],12
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,3,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,101,.//tei:sourceDoc//tei:surface,0
+1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,97,.//tei:sourceDoc/tei:surface,54
+1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,101,.//tei:sourceDoc//tei:surface,52
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,120,.//tei:sourceDoc//tei:add,0
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,258,.//tei:sourceDoc//tei:zone,0
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,1232,.//tei:sourceDoc//tei:line,0
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,842,.//tei:sourceDoc//tei:seg,0
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,1,.//tei:abstract,0
-1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,7,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,14
+1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,7,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,13
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,0
@@ -399,9 +544,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:sourceDoc//tei:ptr,0
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,9,.//tei:sourceDoc//tei:date,0
 1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,26,.//tei:sourceDoc//tei:ref,0
+1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzf1,Notizbuch D10,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,133,.//tei:sourceDoc//tei:surface,0
+16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,129,.//tei:sourceDoc/tei:surface,11
+16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,133,.//tei:sourceDoc//tei:surface,10
 16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,16,.//tei:sourceDoc//tei:add,0
 16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,152,.//tei:sourceDoc//tei:zone,0
 16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,427,.//tei:sourceDoc//tei:line,0
@@ -415,9 +566,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:sourceDoc//tei:ptr,0
 16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,48,.//tei:sourceDoc//tei:date,0
 16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,8,.//tei:sourceDoc//tei:ref,0
+16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:listPerson/tei:person,0
+16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:listPlace/tei:place,0
+16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+16b00,Notizbuch C7,N/A,N/A,N/A,N/A,N/A,N/A,Während oder kurz nach der Reise nach Thüringen von Anfang Juli bis zum 25. August 1873 entstanden.,1873,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,135,.//tei:sourceDoc//tei:surface,0
+22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,129,.//tei:sourceDoc/tei:surface,16
+22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,135,.//tei:sourceDoc//tei:surface,17
 22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,13,.//tei:sourceDoc//tei:add,0
 22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,211,.//tei:sourceDoc//tei:zone,0
 22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,815,.//tei:sourceDoc//tei:line,0
@@ -431,9 +588,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,0,.//tei:sourceDoc//tei:ptr,0
 22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,10,.//tei:sourceDoc//tei:date,0
 22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,33,.//tei:sourceDoc//tei:ref,0
-1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,4,.//tei:sourceDoc//tei:note[@type='editorial'],17
+22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,0,.//tei:body/tei:listPerson/tei:person,0
+22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,0,.//tei:body/tei:listPlace/tei:place,0
+22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jth,Notizbuch A20,N/A,N/A,N/A,N/A,N/A,N/A,1881-04-19 1881-04-23 1881-05-02 1881-05-03,,1881,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,4,.//tei:sourceDoc//tei:note[@type='editorial'],16
 1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,9,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,135,.//tei:sourceDoc//tei:surface,0
+1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,127,.//tei:sourceDoc/tei:surface,35
+1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,135,.//tei:sourceDoc//tei:surface,34
 1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,61,.//tei:sourceDoc//tei:add,0
 1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,305,.//tei:sourceDoc//tei:zone,0
 1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,1255,.//tei:sourceDoc//tei:line,0
@@ -447,9 +610,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdq,Notizbuch C6,N/A,5,N/A,N/A,N/A,N/A,1873,1873,1873,5,.//tei:sourceDoc//tei:ptr,0
 1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,20,.//tei:sourceDoc//tei:date,0
 1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,92,.//tei:sourceDoc//tei:ref,0
+1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdq,Notizbuch C6,N/A,N/A,N/A,N/A,N/A,N/A,1873,1873,1873,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,171,.//tei:sourceDoc//tei:surface,0
+16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,161,.//tei:sourceDoc/tei:surface,43
+16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,171,.//tei:sourceDoc//tei:surface,43
 16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,90,.//tei:sourceDoc//tei:add,0
 16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,315,.//tei:sourceDoc//tei:zone,0
 16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,1523,.//tei:sourceDoc//tei:line,0
@@ -463,9 +632,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,0,.//tei:sourceDoc//tei:ptr,0
 16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,35,.//tei:sourceDoc//tei:date,0
 16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,61,.//tei:sourceDoc//tei:ref,0
+16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,0,.//tei:body/tei:listPerson/tei:person,0
+16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,0,.//tei:body/tei:listPlace/tei:place,0
+16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+16q91,Notizbuch D1,N/A,N/A,N/A,N/A,N/A,N/A,19.05.1864-26.05.1864,1864,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,152,.//tei:sourceDoc//tei:surface,0
+1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,145,.//tei:sourceDoc/tei:surface,69
+1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,152,.//tei:sourceDoc//tei:surface,66
 1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,132,.//tei:sourceDoc//tei:add,0
 1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,393,.//tei:sourceDoc//tei:zone,0
 1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,2525,.//tei:sourceDoc//tei:line,0
@@ -479,9 +654,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:sourceDoc//tei:ptr,0
 1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,46,.//tei:sourceDoc//tei:date,0
 1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,64,.//tei:sourceDoc//tei:ref,0
+1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdz,Notizbuch D7,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,143,.//tei:sourceDoc//tei:surface,0
+1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,113,.//tei:sourceDoc/tei:surface,61
+1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,143,.//tei:sourceDoc//tei:surface,58
 1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,110,.//tei:sourceDoc//tei:add,0
 1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,377,.//tei:sourceDoc//tei:zone,0
 1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,1696,.//tei:sourceDoc//tei:line,0
@@ -495,15 +676,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:ptr,0
 1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,12,.//tei:sourceDoc//tei:date,0
 1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,20,.//tei:sourceDoc//tei:ref,0
+1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzf3,Notizbuch E3,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,18,.//tei:sourceDoc//tei:note[@type='editorial'],25
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,134,.//tei:sourceDoc//tei:surface,0
+22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,129,.//tei:sourceDoc/tei:surface,25
+22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,134,.//tei:sourceDoc//tei:surface,25
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,20,.//tei:sourceDoc//tei:add,0
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,287,.//tei:sourceDoc//tei:zone,0
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,1101,.//tei:sourceDoc//tei:line,0
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,648,.//tei:sourceDoc//tei:seg,0
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,1,.//tei:abstract,0
-22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,13,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,11
+22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,13,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,29
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,23
@@ -511,15 +698,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtt,Notizbuch B8,N/A,16,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,16,.//tei:sourceDoc//tei:ptr,0
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,15,.//tei:sourceDoc//tei:date,0
 22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,29,.//tei:sourceDoc//tei:ref,0
-1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,24,.//tei:sourceDoc//tei:note[@type='editorial'],47
+22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,0,.//tei:body/tei:listPerson/tei:person,0
+22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,0,.//tei:body/tei:listPlace/tei:place,0
+22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtt,Notizbuch B8,N/A,N/A,N/A,N/A,N/A,N/A,1882-01-03 1882-01-10 1882-02-07 1882-02-11 1882-02-28 1882-03-06 1882-03-09 1882-03-10 1882-03-12 1882-03-14 1882-03-29,,1881,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,24,.//tei:sourceDoc//tei:note[@type='editorial'],46
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,134,.//tei:sourceDoc//tei:surface,0
+1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,129,.//tei:sourceDoc/tei:surface,32
+1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,134,.//tei:sourceDoc//tei:surface,31
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,59,.//tei:sourceDoc//tei:add,0
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,292,.//tei:sourceDoc//tei:zone,0
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,1036,.//tei:sourceDoc//tei:line,0
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,669,.//tei:sourceDoc//tei:seg,0
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,1,.//tei:abstract,81
-1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,27,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,22
+1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,27,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,21
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,18
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,18
@@ -527,9 +720,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdk,Notizbuch A1,N/A,7,N/A,N/A,N/A,N/A,1864,1864,,7,.//tei:sourceDoc//tei:ptr,0
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,54,.//tei:sourceDoc//tei:date,0
 1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,43,.//tei:sourceDoc//tei:ref,0
+1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdk,Notizbuch A1,N/A,N/A,N/A,N/A,N/A,N/A,1864,1864,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,153,.//tei:sourceDoc//tei:surface,0
+1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,145,.//tei:sourceDoc/tei:surface,89
+1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,153,.//tei:sourceDoc//tei:surface,86
 1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,156,.//tei:sourceDoc//tei:add,0
 1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,382,.//tei:sourceDoc//tei:zone,0
 1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,2743,.//tei:sourceDoc//tei:line,0
@@ -543,9 +742,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:sourceDoc//tei:ptr,0
 1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,66,.//tei:sourceDoc//tei:date,0
 1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,44,.//tei:sourceDoc//tei:ref,0
-2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,13,.//tei:sourceDoc//tei:note[@type='editorial'],10
+1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzf0,Notizbuch D8,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,13,.//tei:sourceDoc//tei:note[@type='editorial'],9
 2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,2,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,153,.//tei:sourceDoc//tei:surface,0
+2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,145,.//tei:sourceDoc/tei:surface,98
+2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,153,.//tei:sourceDoc//tei:surface,93
 2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,146,.//tei:sourceDoc//tei:add,0
 2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,535,.//tei:sourceDoc//tei:zone,0
 2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,3122,.//tei:sourceDoc//tei:line,0
@@ -559,9 +764,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128s,Notizbuch D9,N/A,14,N/A,N/A,N/A,N/A, ,1871,,14,.//tei:sourceDoc//tei:ptr,0
 2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,51,.//tei:sourceDoc//tei:date,0
 2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,98,.//tei:sourceDoc//tei:ref,0
+2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listPerson/tei:person,0
+2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listPlace/tei:place,0
+2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128s,Notizbuch D9,N/A,N/A,N/A,N/A,N/A,N/A, ,1871,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,24,.//tei:sourceDoc//tei:note[@type='editorial'],34
 22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,246,.//tei:sourceDoc//tei:surface,0
+22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,241,.//tei:sourceDoc/tei:surface,22
+22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,246,.//tei:sourceDoc//tei:surface,22
 22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,45,.//tei:sourceDoc//tei:add,0
 22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,497,.//tei:sourceDoc//tei:zone,0
 22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,1729,.//tei:sourceDoc//tei:line,0
@@ -575,9 +786,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtx,Notizbuch B15,N/A,20,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,20,.//tei:sourceDoc//tei:ptr,0
 22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,11,.//tei:sourceDoc//tei:date,0
 22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,59,.//tei:sourceDoc//tei:ref,0
+22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtx,Notizbuch B15,N/A,N/A,N/A,N/A,N/A,N/A,1883-01-25 1883-01-31 1883-02-09 1884-04-20 1884-04-22 1884-05-08 1884-05-17 1884-09-04 1886-02-06 1886-03-03,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,126,.//tei:sourceDoc//tei:surface,0
+1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,117,.//tei:sourceDoc/tei:surface,69
+1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,126,.//tei:sourceDoc//tei:surface,67
 1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,109,.//tei:sourceDoc//tei:add,0
 1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,344,.//tei:sourceDoc//tei:zone,0
 1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,1883,.//tei:sourceDoc//tei:line,0
@@ -591,9 +808,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,0,.//tei:sourceDoc//tei:ptr,0
 1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,19,.//tei:sourceDoc//tei:date,0
 1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,38,.//tei:sourceDoc//tei:ref,0
-22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,17,.//tei:sourceDoc//tei:note[@type='editorial'],27
+1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,0,.//tei:body/tei:listPerson/tei:person,0
+1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,0,.//tei:body/tei:listPlace/tei:place,0
+1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1rhdm,Notizbuch C1,N/A,N/A,N/A,N/A,N/A,N/A,1865,1865,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,17,.//tei:sourceDoc//tei:note[@type='editorial'],26
 22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,2,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,169,.//tei:sourceDoc//tei:surface,0
+22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,163,.//tei:sourceDoc/tei:surface,30
+22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,169,.//tei:sourceDoc//tei:surface,30
 22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,27,.//tei:sourceDoc//tei:add,0
 22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,264,.//tei:sourceDoc//tei:zone,0
 22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,1776,.//tei:sourceDoc//tei:line,0
@@ -607,9 +830,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtj,Notizbuch B2,N/A,12,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,13,.//tei:sourceDoc//tei:ptr,0
 22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,18,.//tei:sourceDoc//tei:date,0
 22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,19,.//tei:sourceDoc//tei:ref,0
+22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtj,Notizbuch B2,N/A,N/A,N/A,N/A,N/A,N/A,1879-11-22 1879-11-27 1879-12-02 1879-12-06 1879-12-17 1879-12-20 1879-12-31,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDoc//tei:note[@type='editorial'],15
 22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,142,.//tei:sourceDoc//tei:surface,0
+22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,137,.//tei:sourceDoc/tei:surface,83
+22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,142,.//tei:sourceDoc//tei:surface,81
 22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,563,.//tei:sourceDoc//tei:add,0
 22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,302,.//tei:sourceDoc//tei:zone,0
 22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,2317,.//tei:sourceDoc//tei:line,0
@@ -623,15 +852,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:ptr,0
 22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,24,.//tei:sourceDoc//tei:date,0
 22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,42,.//tei:sourceDoc//tei:ref,0
-22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,8,.//tei:sourceDoc//tei:note[@type='editorial'],31
+22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtv,Notizbuch A4,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,8,.//tei:sourceDoc//tei:note[@type='editorial'],30
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,133,.//tei:sourceDoc//tei:surface,0
+22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,127,.//tei:sourceDoc/tei:surface,27
+22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,133,.//tei:sourceDoc//tei:surface,26
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,24,.//tei:sourceDoc//tei:add,0
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,362,.//tei:sourceDoc//tei:zone,0
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,1273,.//tei:sourceDoc//tei:line,0
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,694,.//tei:sourceDoc//tei:seg,0
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,1,.//tei:abstract,0
-22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,11,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
+22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,11,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,9
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,21
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,13
@@ -639,9 +874,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtd,Notizbuch B10,N/A,9,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,9,.//tei:sourceDoc//tei:ptr,0
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,18,.//tei:sourceDoc//tei:date,0
 22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,46,.//tei:sourceDoc//tei:ref,0
+22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,0,.//tei:body/tei:listPerson/tei:person,0
+22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,0,.//tei:body/tei:listPlace/tei:place,0
+22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtd,Notizbuch B10,N/A,N/A,N/A,N/A,N/A,N/A,1882-09-24 1882-10-16 1882-11-07 1882-11-15 1882-12-09 1883-01-19 1883-02-07,,1882,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,1,.//tei:sourceDoc//tei:note[@type='editorial'],47
 22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,135,.//tei:sourceDoc//tei:surface,0
+22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,129,.//tei:sourceDoc/tei:surface,50
+22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,135,.//tei:sourceDoc//tei:surface,48
 22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,147,.//tei:sourceDoc//tei:add,0
 22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,404,.//tei:sourceDoc//tei:zone,0
 22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,1906,.//tei:sourceDoc//tei:line,0
@@ -655,15 +896,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,0,.//tei:sourceDoc//tei:ptr,0
 22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,26,.//tei:sourceDoc//tei:date,0
 22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,53,.//tei:sourceDoc//tei:ref,0
-22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,14,.//tei:sourceDoc//tei:note[@type='editorial'],32
+22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,0,.//tei:body/tei:listPerson/tei:person,0
+22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,0,.//tei:body/tei:listPlace/tei:place,0
+22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtn,Notizbuch E5,N/A,N/A,N/A,N/A,N/A,N/A,1878-07 1878-07-17 1878-07-27 1879-01-17,,1879,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,14,.//tei:sourceDoc//tei:note[@type='editorial'],31
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,2,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,139,.//tei:sourceDoc//tei:surface,0
+22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,133,.//tei:sourceDoc/tei:surface,19
+22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,139,.//tei:sourceDoc//tei:surface,18
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,17,.//tei:sourceDoc//tei:add,0
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,216,.//tei:sourceDoc//tei:zone,0
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,856,.//tei:sourceDoc//tei:line,0
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,380,.//tei:sourceDoc//tei:seg,0
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,1,.//tei:abstract,29
-22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,10,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,11
+22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,10,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,23
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,23
@@ -671,9 +918,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtc,Notizbuch B7,N/A,10,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,10,.//tei:sourceDoc//tei:ptr,0
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,3,.//tei:sourceDoc//tei:date,0
 22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,38,.//tei:sourceDoc//tei:ref,0
+22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,0,.//tei:body/tei:listPerson/tei:person,0
+22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,0,.//tei:body/tei:listPlace/tei:place,0
+22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtc,Notizbuch B7,N/A,N/A,N/A,N/A,N/A,N/A,1881-05-14 1881-06-01 1881-06-11 1881-09-20 1881-10-08 1881-10-12 1882-01-06,,1881,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,10,.//tei:sourceDoc//tei:note[@type='editorial'],33
 22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,4,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,134,.//tei:sourceDoc//tei:surface,0
+22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,129,.//tei:sourceDoc/tei:surface,25
+22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,134,.//tei:sourceDoc//tei:surface,24
 22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,22,.//tei:sourceDoc//tei:add,0
 22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,286,.//tei:sourceDoc//tei:zone,0
 22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,1148,.//tei:sourceDoc//tei:line,0
@@ -687,15 +940,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtb,Notizbuch B6,N/A,10,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,10,.//tei:sourceDoc//tei:ptr,0
 22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,1,.//tei:sourceDoc//tei:date,0
 22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,48,.//tei:sourceDoc//tei:ref,0
+22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,0,.//tei:body/tei:listPerson/tei:person,0
+22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,0,.//tei:body/tei:listPlace/tei:place,0
+22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtb,Notizbuch B6,N/A,N/A,N/A,N/A,N/A,N/A,1881-01-13 1881-01-16 1881-01-16 1881-01-21 1881-01-29 1881-02-15 1881-02-19 1881-02-20 1881-03-18,,1881,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,106,.//tei:sourceDoc//tei:surface,0
+16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,101,.//tei:sourceDoc/tei:surface,33
+16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,106,.//tei:sourceDoc//tei:surface,32
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,34,.//tei:sourceDoc//tei:add,0
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,104,.//tei:sourceDoc//tei:zone,0
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,875,.//tei:sourceDoc//tei:line,0
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,657,.//tei:sourceDoc//tei:seg,0
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,1,.//tei:abstract,0
-16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,3,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
+16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,3,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,9
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,6
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,6
@@ -703,15 +962,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:sourceDoc//tei:ptr,0
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,33,.//tei:sourceDoc//tei:date,0
 16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,21,.//tei:sourceDoc//tei:ref,0
+16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listPerson/tei:person,0
+16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listPlace/tei:place,0
+16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+16q90,Notizbuch C13,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,1,.//tei:sourceDoc//tei:note[@type='editorial'],54
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,4,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,170,.//tei:sourceDoc//tei:surface,0
+2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,161,.//tei:sourceDoc/tei:surface,66
+2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,170,.//tei:sourceDoc//tei:surface,63
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,169,.//tei:sourceDoc//tei:add,0
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,381,.//tei:sourceDoc//tei:zone,0
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,2234,.//tei:sourceDoc//tei:line,0
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,1352,.//tei:sourceDoc//tei:seg,0
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,1,.//tei:abstract,0
-2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,12,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
+2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,12,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,9
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,10
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,9
@@ -719,9 +984,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128h,Notizbuch A9,N/A,2,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,2,.//tei:sourceDoc//tei:ptr,0
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,68,.//tei:sourceDoc//tei:date,0
 2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,48,.//tei:sourceDoc//tei:ref,0
+2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,0,.//tei:body/tei:listPerson/tei:person,0
+2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,0,.//tei:body/tei:listPlace/tei:place,0
+2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128h,Notizbuch A9,N/A,N/A,N/A,N/A,N/A,N/A,1861-10-05 1862-06-25 1862-06-26 1862-06-27 1862-06-28 1862-06-29,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,151,.//tei:sourceDoc//tei:surface,0
+2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,141,.//tei:sourceDoc/tei:surface,49
+2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,151,.//tei:sourceDoc//tei:surface,60
 2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,45,.//tei:sourceDoc//tei:add,0
 2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,190,.//tei:sourceDoc//tei:zone,0
 2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,1175,.//tei:sourceDoc//tei:line,0
@@ -735,9 +1006,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:ptr,0
 2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,62,.//tei:sourceDoc//tei:date,0
 2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,54,.//tei:sourceDoc//tei:ref,0
+2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128g,Notizbuch A8,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,198,.//tei:sourceDoc//tei:surface,0
+2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,191,.//tei:sourceDoc/tei:surface,10
+2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,198,.//tei:sourceDoc//tei:surface,10
 2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,26,.//tei:sourceDoc//tei:add,0
 2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,338,.//tei:sourceDoc//tei:zone,0
 2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,619,.//tei:sourceDoc//tei:line,0
@@ -751,15 +1028,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:ptr,0
 2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,2,.//tei:sourceDoc//tei:date,0
 2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,49,.//tei:sourceDoc//tei:ref,0
+2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128k,Notizbuch A14,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,2,.//tei:sourceDoc//tei:note[@type='editorial'],5
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,5,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,150,.//tei:sourceDoc//tei:surface,0
+2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,145,.//tei:sourceDoc/tei:surface,46
+2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,150,.//tei:sourceDoc//tei:surface,44
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,91,.//tei:sourceDoc//tei:add,0
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,386,.//tei:sourceDoc//tei:zone,0
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,1639,.//tei:sourceDoc//tei:line,0
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,1054,.//tei:sourceDoc//tei:seg,0
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,1,.//tei:abstract,0
-2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,12,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,30
+2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,12,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,29
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,20
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,19
@@ -767,15 +1050,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,0,.//tei:sourceDoc//tei:ptr,0
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,69,.//tei:sourceDoc//tei:date,0
 2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,78,.//tei:sourceDoc//tei:ref,0
+2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,0,.//tei:body/tei:listPerson/tei:person,0
+2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,0,.//tei:body/tei:listPlace/tei:place,0
+2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128q,Notizbuch A21,N/A,N/A,N/A,N/A,N/A,N/A,1860,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),35,.//tei:sourceDoc//tei:note[@type='editorial'],33
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),137,.//tei:sourceDoc//tei:surface,0
+22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),129,.//tei:sourceDoc/tei:surface,43
+22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),137,.//tei:sourceDoc//tei:surface,42
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),54,.//tei:sourceDoc//tei:add,0
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),343,.//tei:sourceDoc//tei:zone,0
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),1695,.//tei:sourceDoc//tei:line,0
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),887,.//tei:sourceDoc//tei:seg,0
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),1,.//tei:abstract,0
-22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),22,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,14
+22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),22,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,13
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,43
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,43
@@ -783,9 +1072,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jt7,Notizbuch B1,N/A,32,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),32,.//tei:sourceDoc//tei:ptr,0
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),28,.//tei:sourceDoc//tei:date,0
 22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),46,.//tei:sourceDoc//tei:ref,0
+22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),0,.//tei:body/tei:listPerson/tei:person,0
+22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),0,.//tei:body/tei:listPlace/tei:place,0
+22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jt7,Notizbuch B1,N/A,N/A,N/A,N/A,N/A,N/A,1878-09-26 1878-09-28 1878-10-23 1878-11-08 1878-11-14 1878-11-10 1878-12-12 1878-12-22 1878-12-28 1878-12-31 1879-01-07,,1878 (?),0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,12,.//tei:sourceDoc//tei:note[@type='editorial'],17
 22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,136,.//tei:sourceDoc//tei:surface,0
+22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,129,.//tei:sourceDoc/tei:surface,36
+22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,136,.//tei:sourceDoc//tei:surface,36
 22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,151,.//tei:sourceDoc//tei:add,0
 22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,421,.//tei:sourceDoc//tei:zone,0
 22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,1465,.//tei:sourceDoc//tei:line,0
@@ -799,15 +1094,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtw,Notizbuch B12,N/A,5,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,5,.//tei:sourceDoc//tei:ptr,0
 22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,24,.//tei:sourceDoc//tei:date,0
 22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,69,.//tei:sourceDoc//tei:ref,0
+22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,0,.//tei:body/tei:listPerson/tei:person,0
+22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,0,.//tei:body/tei:listPlace/tei:place,0
+22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtw,Notizbuch B12,N/A,N/A,N/A,N/A,N/A,N/A,1882-06 1880-06-19 1882-07-08 1882-07-09 1882-07-11 1883-03-20 1883-04-04 1883-04-06,,1883,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,133,.//tei:sourceDoc//tei:surface,0
+1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,129,.//tei:sourceDoc/tei:surface,29
+1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,133,.//tei:sourceDoc//tei:surface,28
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,58,.//tei:sourceDoc//tei:add,0
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,221,.//tei:sourceDoc//tei:zone,0
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,999,.//tei:sourceDoc//tei:line,0
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,590,.//tei:sourceDoc//tei:seg,0
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,1,.//tei:abstract,75
-1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,13,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,11
+1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,13,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,15
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,15
@@ -815,15 +1116,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,0,.//tei:sourceDoc//tei:ptr,0
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,25,.//tei:sourceDoc//tei:date,0
 1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,35,.//tei:sourceDoc//tei:ref,0
-16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,13,.//tei:sourceDoc//tei:note[@type='editorial'],25
+1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,0,.//tei:body/tei:listPerson/tei:person,0
+1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,0,.//tei:body/tei:listPlace/tei:place,0
+1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1rhdr,Notizbuch D3,N/A,N/A,N/A,N/A,N/A,N/A,20.09.1864-27.09. 1864 (Reise- und Tagebuchaufzeichnungen aus Dänemark und Schleswig-Holstein) und,1864,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,13,.//tei:sourceDoc//tei:note[@type='editorial'],24
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,166,.//tei:sourceDoc//tei:surface,0
+16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,157,.//tei:sourceDoc/tei:surface,82
+16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,166,.//tei:sourceDoc//tei:surface,82
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,117,.//tei:sourceDoc//tei:add,0
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,466,.//tei:sourceDoc//tei:zone,0
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,3124,.//tei:sourceDoc//tei:line,0
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,2436,.//tei:sourceDoc//tei:seg,0
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,1,.//tei:abstract,0
-16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,9,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,8
+16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,9,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,7
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,21
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,19
@@ -831,9 +1138,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 16bsn,Notizbuch C8,N/A,14,N/A,N/A,N/A,N/A,1874,1874,,14,.//tei:sourceDoc//tei:ptr,0
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,50,.//tei:sourceDoc//tei:date,0
 16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,32,.//tei:sourceDoc//tei:ref,0
+16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,0,.//tei:body/tei:listPerson/tei:person,0
+16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,0,.//tei:body/tei:listPlace/tei:place,0
+16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+16bsn,Notizbuch C8,N/A,N/A,N/A,N/A,N/A,N/A,1874,1874,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,4,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,114,.//tei:sourceDoc//tei:surface,0
+1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,101,.//tei:sourceDoc/tei:surface,74
+1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,114,.//tei:sourceDoc//tei:surface,68
 1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,98,.//tei:sourceDoc//tei:add,0
 1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,290,.//tei:sourceDoc//tei:zone,0
 1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,1730,.//tei:sourceDoc//tei:line,0
@@ -847,9 +1160,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,0,.//tei:sourceDoc//tei:ptr,0
 1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,28,.//tei:sourceDoc//tei:date,0
 1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,25,.//tei:sourceDoc//tei:ref,0
+1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,0,.//tei:body/tei:listPerson/tei:person,0
+1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,0,.//tei:body/tei:listPlace/tei:place,0
+1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1rhdq,Notizbuch D2,N/A,N/A,N/A,N/A,N/A,N/A,5.-21. September 1864,1864,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,1,.//tei:sourceDoc//tei:note[@type='editorial'],39
 1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,2,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,155,.//tei:sourceDoc//tei:surface,0
+1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,145,.//tei:sourceDoc/tei:surface,23
+1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,155,.//tei:sourceDoc//tei:surface,23
 1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,58,.//tei:sourceDoc//tei:add,0
 1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,220,.//tei:sourceDoc//tei:zone,0
 1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,958,.//tei:sourceDoc//tei:line,0
@@ -863,6 +1182,11 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1rhdh,Notizbuch A10,N/A,1,N/A,N/A,N/A,N/A,1872,1872,,1,.//tei:sourceDoc//tei:ptr,0
 1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,6,.//tei:sourceDoc//tei:date,0
 1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,33,.//tei:sourceDoc//tei:ref,0
+1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:listPerson/tei:person,0
+1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:listPlace/tei:place,0
+1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1rhdh,Notizbuch A10,N/A,N/A,N/A,N/A,N/A,N/A,1872,1872,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
                      ,  
                 ",,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
@@ -871,7 +1195,10 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
                 ",,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
 169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
                      ,  
-                ",,162,.//tei:sourceDoc//tei:surface,0
+                ",,157,.//tei:sourceDoc/tei:surface,17
+169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,162,.//tei:sourceDoc//tei:surface,17
 169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
                      ,  
                 ",,37,.//tei:sourceDoc//tei:add,0
@@ -911,15 +1238,31 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
                      ,  
                 ",,17,.//tei:sourceDoc//tei:ref,0
+169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:listPerson/tei:person,0
+169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:listPlace/tei:place,0
+169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+169zx,Notizbuch C3,N/A,N/A,N/A,N/A,N/A,N/A,1869 1870,"
+                     ,  
+                ",,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDoc//tei:note[@type='editorial'],15
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,382,.//tei:sourceDoc//tei:surface,0
+1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,359,.//tei:sourceDoc/tei:surface,17
+1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,382,.//tei:sourceDoc//tei:surface,22
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,49,.//tei:sourceDoc//tei:add,0
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,293,.//tei:sourceDoc//tei:zone,0
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,1325,.//tei:sourceDoc//tei:line,0
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,592,.//tei:sourceDoc//tei:seg,0
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:abstract,0
-1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,11,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,11
+1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,11,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,10
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,38
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,23
@@ -927,15 +1270,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:sourceDoc//tei:ptr,0
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,27,.//tei:sourceDoc//tei:date,0
 1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,21,.//tei:sourceDoc//tei:ref,0
+1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzf4,Notizbuch E6,N/A,N/A,N/A,N/A,N/A,N/A,,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,4,.//tei:sourceDoc//tei:note[@type='editorial'],19
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,107,.//tei:sourceDoc//tei:surface,0
+2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,97,.//tei:sourceDoc/tei:surface,51
+2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,107,.//tei:sourceDoc//tei:surface,52
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,72,.//tei:sourceDoc//tei:add,0
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,327,.//tei:sourceDoc//tei:zone,0
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,1473,.//tei:sourceDoc//tei:line,0
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,790,.//tei:sourceDoc//tei:seg,0
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,1,.//tei:abstract,0
-2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,12,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,12
+2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,12,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,11
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,16
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,17
@@ -943,15 +1292,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128m,Notizbuch A16,N/A,1,N/A,N/A,N/A,N/A,1875 1875-08-27,,,1,.//tei:sourceDoc//tei:ptr,0
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,71,.//tei:sourceDoc//tei:date,0
 2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,33,.//tei:sourceDoc//tei:ref,0
-2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,6,.//tei:sourceDoc//tei:note[@type='editorial'],28
+2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,0,.//tei:body/tei:listPerson/tei:person,0
+2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,0,.//tei:body/tei:listPlace/tei:place,0
+2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128m,Notizbuch A16,N/A,N/A,N/A,N/A,N/A,N/A,1875 1875-08-27,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,6,.//tei:sourceDoc//tei:note[@type='editorial'],27
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,163,.//tei:sourceDoc//tei:surface,0
+2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,145,.//tei:sourceDoc/tei:surface,36
+2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,163,.//tei:sourceDoc//tei:surface,34
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,139,.//tei:sourceDoc//tei:add,0
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,248,.//tei:sourceDoc//tei:zone,0
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,1295,.//tei:sourceDoc//tei:line,0
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,752,.//tei:sourceDoc//tei:seg,0
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,1,.//tei:abstract,0
-2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,21,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,20
+2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,21,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,19
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,8
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,34
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,8
@@ -959,9 +1314,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128t,Notizbuch D11,N/A,1,N/A,N/A,N/A,N/A,1871,1871,,4,.//tei:sourceDoc//tei:ptr,0
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,24,.//tei:sourceDoc//tei:date,0
 2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,30,.//tei:sourceDoc//tei:ref,0
+2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:listPerson/tei:person,0
+2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:listPlace/tei:place,0
+2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128t,Notizbuch D11,N/A,N/A,N/A,N/A,N/A,N/A,1871,1871,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,2,.//tei:sourceDoc//tei:note[@type='editorial'],27
 1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,109,.//tei:sourceDoc//tei:surface,0
+1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,101,.//tei:sourceDoc/tei:surface,56
+1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,109,.//tei:sourceDoc//tei:surface,52
 1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,116,.//tei:sourceDoc//tei:add,0
 1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,287,.//tei:sourceDoc//tei:zone,0
 1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,1478,.//tei:sourceDoc//tei:line,0
@@ -975,9 +1336,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdt,Notizbuch C12,N/A,2,N/A,N/A,N/A,N/A,1875,1875,,2,.//tei:sourceDoc//tei:ptr,0
 1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,19,.//tei:sourceDoc//tei:date,0
 1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,27,.//tei:sourceDoc//tei:ref,0
+1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdt,Notizbuch C12,N/A,N/A,N/A,N/A,N/A,N/A,1875,1875,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:sourceDoc//tei:note[@type='editorial'],0
 1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,220,.//tei:sourceDoc//tei:surface,0
+1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,215,.//tei:sourceDoc/tei:surface,48
+1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,220,.//tei:sourceDoc//tei:surface,47
 1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,77,.//tei:sourceDoc//tei:add,0
 1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,252,.//tei:sourceDoc//tei:zone,0
 1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,2553,.//tei:sourceDoc//tei:line,0
@@ -991,15 +1358,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:sourceDoc//tei:ptr,0
 1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,52,.//tei:sourceDoc//tei:date,0
 1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:sourceDoc//tei:ref,0
+1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdr,Notizbuch C9,N/A,N/A,N/A,N/A,N/A,N/A,1874,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,1,.//tei:sourceDoc//tei:note[@type='editorial'],9
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,215,.//tei:sourceDoc//tei:surface,0
+1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,145,.//tei:sourceDoc/tei:surface,74
+1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,215,.//tei:sourceDoc//tei:surface,99
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,11,.//tei:sourceDoc//tei:add,0
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,251,.//tei:sourceDoc//tei:zone,0
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,1526,.//tei:sourceDoc//tei:line,0
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,294,.//tei:sourceDoc//tei:seg,0
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,1,.//tei:abstract,50
-1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,4,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,8
+1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,4,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,7
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,5
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,2,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,14
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,11
@@ -1007,15 +1380,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,0,.//tei:sourceDoc//tei:ptr,0
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,1,.//tei:sourceDoc//tei:date,0
 1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,32,.//tei:sourceDoc//tei:ref,0
+1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdw,Notizbuch D5,N/A,N/A,N/A,N/A,N/A,N/A, ,,1866,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,10,.//tei:sourceDoc//tei:note[@type='editorial'],28
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,134,.//tei:sourceDoc//tei:surface,0
+22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,129,.//tei:sourceDoc/tei:surface,34
+22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,134,.//tei:sourceDoc//tei:surface,33
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,59,.//tei:sourceDoc//tei:add,0
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,347,.//tei:sourceDoc//tei:zone,0
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,1468,.//tei:sourceDoc//tei:line,0
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,763,.//tei:sourceDoc//tei:seg,0
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,1,.//tei:abstract,64
-22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,10,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,12
+22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,10,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,11
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,24
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,23
@@ -1023,9 +1402,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jt9,Notizbuch B5,N/A,9,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,9,.//tei:sourceDoc//tei:ptr,0
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,4,.//tei:sourceDoc//tei:date,0
 22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,28,.//tei:sourceDoc//tei:ref,0
+22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,0,.//tei:body/tei:listPerson/tei:person,0
+22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,0,.//tei:body/tei:listPlace/tei:place,0
+22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jt9,Notizbuch B5,N/A,N/A,N/A,N/A,N/A,N/A,1880-01-07 1880-01-21 1880-02-10 1880-02-14 1880-03-18 1880-03-24 1880-03-28 1880-03-30,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,14,.//tei:sourceDoc//tei:note[@type='editorial'],23
 22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,134,.//tei:sourceDoc//tei:surface,0
+22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,129,.//tei:sourceDoc/tei:surface,12
+22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,134,.//tei:sourceDoc//tei:surface,12
 22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,16,.//tei:sourceDoc//tei:add,0
 22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,165,.//tei:sourceDoc//tei:zone,0
 22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,568,.//tei:sourceDoc//tei:line,0
@@ -1039,15 +1424,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtk,Notizbuch B9,N/A,22,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,22,.//tei:sourceDoc//tei:ptr,0
 22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,1,.//tei:sourceDoc//tei:date,0
 22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,17,.//tei:sourceDoc//tei:ref,0
+22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,0,.//tei:body/tei:listPerson/tei:person,0
+22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,0,.//tei:body/tei:listPlace/tei:place,0
+22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtk,Notizbuch B9,N/A,N/A,N/A,N/A,N/A,N/A,1881-11-08 1881-11-17 1881-12-09 1881-12-13 1881-12-16 1881-12-23,,1881,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,8,.//tei:sourceDoc//tei:note[@type='editorial'],60
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,199,.//tei:sourceDoc//tei:surface,0
+2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,189,.//tei:sourceDoc/tei:surface,12
+2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,199,.//tei:sourceDoc//tei:surface,12
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,51,.//tei:sourceDoc//tei:add,0
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,386,.//tei:sourceDoc//tei:zone,0
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,762,.//tei:sourceDoc//tei:line,0
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,337,.//tei:sourceDoc//tei:seg,0
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,1,.//tei:abstract,0
-2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,10,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,15
+2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,10,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,14
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,0
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,0
@@ -1055,9 +1446,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128f,Notizbuch A6,N/A,11,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,11,.//tei:sourceDoc//tei:ptr,0
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,11,.//tei:sourceDoc//tei:date,0
 2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,21,.//tei:sourceDoc//tei:ref,0
+2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,0,.//tei:body/tei:listPerson/tei:person,0
+2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,0,.//tei:body/tei:listPlace/tei:place,0
+2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128f,Notizbuch A6,N/A,N/A,N/A,N/A,N/A,N/A,1863-07-17 1863-09-27 1863-09-29 1863-09-30,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,7,.//tei:sourceDoc//tei:note[@type='editorial'],19
 2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,1,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,117,.//tei:sourceDoc//tei:surface,0
+2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,113,.//tei:sourceDoc/tei:surface,36
+2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,117,.//tei:sourceDoc//tei:surface,35
 2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,61,.//tei:sourceDoc//tei:add,0
 2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,174,.//tei:sourceDoc//tei:zone,0
 2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,1028,.//tei:sourceDoc//tei:line,0
@@ -1071,9 +1468,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128p,Notizbuch A19,N/A,8,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,8,.//tei:sourceDoc//tei:ptr,0
 2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,11,.//tei:sourceDoc//tei:date,0
 2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,14,.//tei:sourceDoc//tei:ref,0
+2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,0,.//tei:body/tei:listPerson/tei:person,0
+2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,0,.//tei:body/tei:listPlace/tei:place,0
+2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128p,Notizbuch A19,N/A,N/A,N/A,N/A,N/A,N/A,(An Bord der Sphinx - Niederschrift) und (An Bord der Sphinx - Kapitel-Disposition und Ortsnamen),,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,3,.//tei:sourceDoc//tei:note[@type='editorial'],46
 2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,0,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,163,.//tei:sourceDoc//tei:surface,0
+2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,145,.//tei:sourceDoc/tei:surface,76
+2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,163,.//tei:sourceDoc//tei:surface,83
 2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,200,.//tei:sourceDoc//tei:add,0
 2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,626,.//tei:sourceDoc//tei:zone,0
 2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,2983,.//tei:sourceDoc//tei:line,0
@@ -1087,15 +1490,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,0,.//tei:sourceDoc//tei:ptr,0
 2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,16,.//tei:sourceDoc//tei:date,0
 2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,58,.//tei:sourceDoc//tei:ref,0
+2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,0,.//tei:body/tei:listPerson/tei:person,0
+2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,0,.//tei:body/tei:listPlace/tei:place,0
+2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128r,Notizbuch D4,N/A,N/A,N/A,N/A,N/A,N/A," : XXX,: XXX und XXX",1866,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,22,.//tei:sourceDoc//tei:note[@type='editorial'],79
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,3,.//tei:sourceDoc//tei:note[@type='authorial'],0
-1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,169,.//tei:sourceDoc//tei:surface,0
+1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,161,.//tei:sourceDoc/tei:surface,29
+1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,169,.//tei:sourceDoc//tei:surface,28
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,63,.//tei:sourceDoc//tei:add,0
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,489,.//tei:sourceDoc//tei:zone,0
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,1459,.//tei:sourceDoc//tei:line,0
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,879,.//tei:sourceDoc//tei:seg,0
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,1,.//tei:abstract,126
-1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,23,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,27
+1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,23,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,26
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,30
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,33
@@ -1103,9 +1512,15 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 1zzdn,Notizbuch A15,N/A,49,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,49,.//tei:sourceDoc//tei:ptr,0
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,37,.//tei:sourceDoc//tei:date,0
 1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,89,.//tei:sourceDoc//tei:ref,0
-2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,8,.//tei:sourceDoc//tei:note[@type='editorial'],49
+1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,0,.//tei:body/tei:listPerson/tei:person,0
+1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,0,.//tei:body/tei:listPlace/tei:place,0
+1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+1zzdn,Notizbuch A15,N/A,N/A,N/A,N/A,N/A,N/A,1869-06 1869-06 1869-07-13,meist 1869,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
+2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,8,.//tei:sourceDoc//tei:note[@type='editorial'],48
 2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,2,.//tei:sourceDoc//tei:note[@type='authorial'],0
-2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,168,.//tei:sourceDoc//tei:surface,0
+2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,161,.//tei:sourceDoc/tei:surface,49
+2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,168,.//tei:sourceDoc//tei:surface,48
 2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,131,.//tei:sourceDoc//tei:add,0
 2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,587,.//tei:sourceDoc//tei:zone,0
 2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,1990,.//tei:sourceDoc//tei:line,0
@@ -1119,15 +1534,21 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 2128j,Notizbuch A11,N/A,3,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,3,.//tei:sourceDoc//tei:ptr,0
 2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,69,.//tei:sourceDoc//tei:date,0
 2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,120,.//tei:sourceDoc//tei:ref,0
+2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,0,.//tei:body/tei:listPerson/tei:person,0
+2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,0,.//tei:body/tei:listPlace/tei:place,0
+2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+2128j,Notizbuch A11,N/A,N/A,N/A,N/A,N/A,N/A,1860-06-01 1860-06-17 1861-03-31,,,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,15,.//tei:sourceDoc//tei:note[@type='editorial'],33
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,3,.//tei:sourceDoc//tei:note[@type='authorial'],0
-22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,137,.//tei:sourceDoc//tei:surface,0
+22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,129,.//tei:sourceDoc/tei:surface,15
+22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,137,.//tei:sourceDoc//tei:surface,15
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,17,.//tei:sourceDoc//tei:add,0
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,277,.//tei:sourceDoc//tei:zone,0
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,805,.//tei:sourceDoc//tei:line,0
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,329,.//tei:sourceDoc//tei:seg,0
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,1,.//tei:abstract,76
-22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,8,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,12
+22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,8,.//tei:sourceDesc//tei:list[@type='editorial']/tei:item,11
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,1,.//tei:sourceDesc//tei:list[@type='authorial']/tei:item,0
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,1,.//tei:sourceDesc//tei:list[@type='Friedrich_Fontane']/tei:item,8
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,1,.//tei:sourceDesc//tei:list[@type='Fontane_Blätter']/tei:item,8
@@ -1135,3 +1556,8 @@ filename,notebook_title,eve,lit,org,plc,psn,wrk,date_e,date_a,date_f,count_conte
 22jtm,Notizbuch B11,N/A,13,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,13,.//tei:sourceDoc//tei:ptr,0
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,1,.//tei:sourceDoc//tei:date,0
 22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,42,.//tei:sourceDoc//tei:ref,0
+22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,0,.//tei:body/tei:listPerson/tei:person,0
+22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,0,.//tei:body/tei:listPlace/tei:place,0
+22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,0,.//tei:body/tei:list/tei:item/tei:list/tei:item,0
+22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,0,.//tei:body/tei:listBibl/tei:listBibl/tei:bibl,0
+22jtm,Notizbuch B11,N/A,N/A,N/A,N/A,N/A,N/A,1882-04-21 1882-04-30 1882-05-01 1882-09-17 1882-09-30 1883-04-19,,1882,0,.//tei:body/tei:listEvent/tei:listEvent/tei:event,0
